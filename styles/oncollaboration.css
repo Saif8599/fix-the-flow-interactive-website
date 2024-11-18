@@ -1,0 +1,85 @@
+
+body{
+    padding: 0px;
+    box-sizing: border-box;
+
+    /* body text */
+    --vag-rund: Arial, Helvetica, sans-serif;
+    --open-sans:"Open Sans";
+
+    /*font sizes*/
+    --font-size-xl: 2em;
+    --font-size-l: 1.2em;
+    --font-size-m: 1em;
+    --font-size-s: 0.875em;
+
+    /*font weight*/
+    --light:400;
+    --normal: 500;
+    --bold:600;
+
+    /* colors */
+    --darkred: #6A0025;
+    --accentred: #d2b2bd;
+    --white: #fff;
+    --lightred: #F0E5E9;
+    --black: #1F000B;
+}
+
+
+/* Typografie */
+h1 {
+    font-family:var(--vag-rund);
+    font-size: var(--font-size-xl);
+    color: var(--black);
+    margin: 50px 0px;
+}
+
+h2 {
+    font-family:var(--vag-rund);
+    font-size: var(--font-size-l);
+}
+
+h3 {
+    font-size: var(--font-size-m);
+    margin-top: 5px;
+}
+
+p{
+    font-family:var(--open-sans);
+    font-size: var(--font-size-s);
+}
+
+/* buttons and anchors */ 
+
+a{
+    color: var(--darkred);
+}
+
+button{
+    padding: 16px 30px;
+    color: var(--white);
+    align-items: center;
+    border-radius: 10px;
+}
+
+.cta-btn{
+    background-color: var(--black); 
+    :hover{
+        background-color: var(--lightred);
+        color: var(--black);
+    }
+}
+
+.primary-btn{
+    background-color: var(--darkred, #6A0025);
+}
+
+.primary-btn:hover{
+    background-color: var(--accentred);
+}
+
+.search-btn{
+    background-color: var(--accentred);
+    color: var(--darkred);
+}
