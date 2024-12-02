@@ -74,6 +74,10 @@ nav li:last-child a {
   }
 }
 
+nav li {
+  margin: 18px;
+}
+
 nav ul li {
   display: flex;
   flex-direction: column;
@@ -116,6 +120,7 @@ nav ul li {
 /* Search Functon */
 
 .search-function h1 {
+  font-family: var(--vag-rund), sans-serif;
   font-size: 2em;
   color: #1f000b;
   margin-bottom: 15px;
@@ -198,7 +203,6 @@ nav ul li {
 }
 .webinar-overview-header h2 {
   font-size: 1em;
-  color: #1f000b;
   margin-bottom: 15px;
 }
 
@@ -228,7 +232,6 @@ nav ul li {
 
 .featured-webinar .speaker-name {
   font-size: 1em;
-  margin-top: -15px;
   color: #000000;
 }
 
@@ -288,7 +291,7 @@ nav ul li {
     1fr
   ); /* Hierbij word er 2 kolommen gemaakt van 2 1fr's */
   gap: 15px;
-  margin-bottom: 80px;
+  margin-bottom: 100px;
   @media (min-width: 600px) {
     grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
     gap: 20px;
@@ -312,7 +315,6 @@ nav ul li {
 
 .webinar-item p {
   font-size: 1em;
-  margin-top: -15px;
   color: #000000;
 }
 

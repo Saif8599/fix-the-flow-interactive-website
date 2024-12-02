@@ -1,0 +1,43 @@
+/* Verander achtergrond en rand bij focus */
+#text-input {
+  border: 2px solid #ccc;
+  padding: 5px;
+  border-radius: 5px;
+  transition: all 0.5s ease-out;
+}
+
+/* Stijl voor text-input als deze in focus is */
+#text-input:focus {
+  border-color: #007bff;
+  background: linear-gradient(135deg, #c7dbff, #ffbdbd);
+}
+
+/* Stijl voor invalid invoervelden */
+#color-input,
+#text-input:invalid,
+#email-input:invalid {
+  border-color: red;
+  box-shadow: 0 0 20px red;
+}
+
+/* Stijl voor valid invoervelden */
+#color-input,
+#text-input:valid,
+#email-input:valid {
+  border-color: green;
+  box-shadow: 0 0 20px green;
+}
+
+/* Stijl voor het kleurinvoerveld (color input) */
+#color-input {
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  cursor: pointer;
+}
+
+/* Stijl voor color-input als deze in focus is */
+#color-input:focus {
+  border-color: #007bff;
+  background: linear-gradient(135deg, #c7dbff, #ffbdbd);
+}

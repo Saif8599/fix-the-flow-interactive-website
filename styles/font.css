@@ -1,0 +1,41 @@
+section {
+  width: 8cm; /* Zorgt voor een regel van 10–12 woorden */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+section.em {
+  width: 35em; /* Gebaseerd op de huidige lettergrootte */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+section.ch {
+  width: 65ch; /* Gebaseerd op de breedte van het cijfer '0' */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+section.rem {
+  width: 40rem; /* Gebaseerd op de root-font-size */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+section.vw {
+  width: 25vw; /* 25% van de viewportbreedte */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+section.vmax {
+  width: 20vmax; /* Gebaseerd op de grootste dimensie van het scherm */
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+section.cqw {
+  width: 40cqw; /* 40% van de breedte van de container */
+  font-size: 16px;
+  line-height: 1.5;
+}
