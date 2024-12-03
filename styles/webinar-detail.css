@@ -30,7 +30,7 @@ main {
   @media (min-width: 600px) {
     flex: 0 0 30%;
     margin-top: 80px;
-    }
+  }
 }
 
 /* Navbar */
@@ -92,6 +92,10 @@ nav li:last-child a {
   }
 }
 
+nav li {
+  margin: 18px;
+}
+
 nav ul li {
   display: flex;
   flex-direction: column;
@@ -136,12 +140,12 @@ nav ul li {
 .webinar-video {
   margin-bottom: 30px;
 }
-.webinar-video h1 {
+.webinar-video h2 {
+  font-family: var(--vag-rund), sans-serif;
   font-size: 2em;
   color: #1f000b;
-  margin-bottom: 30px;
   @media (min-width: 600px) {
-  display: none;
+    display: none;
   }
 }
 
@@ -151,7 +155,7 @@ nav ul li {
   border-radius: 5px;
   @media (min-width: 600px) {
     margin-top: 60px;
-    }
+  }
 }
 .webinar-video-title {
   font-size: 1.2em;
@@ -398,9 +402,7 @@ nav ul li {
 
 .qna-submit-button {
   font-size: 16px;
-  padding: 10px 15px;
   background-color: #6a0025;
-  color: #fff;
   border: none;
   border-radius: 4px;
   cursor: pointer;
