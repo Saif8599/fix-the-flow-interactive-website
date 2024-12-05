@@ -1,6 +1,6 @@
 # Fix the Flow - Interactive Website
 
-## Code/Design Programming User Interacion
+## Code/Design review Programming User Interacion
 
 Deze week heb je geleerd hoe je met behulp van het _JavaScript-drie-stappenplan_ en CSS een interactieve functionaliteit kunt bouwen. Daarbij heb je rekening gehouden met de eindgebruiker door zorgvuldig _feedback_ en _feedforward_ in je ontwerp te integreren.
 
