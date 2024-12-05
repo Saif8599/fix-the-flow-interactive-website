@@ -6,7 +6,7 @@ Deze week heb je geleerd hoe je met behulp van het _JavaScript-drie-stappenplan_
 
 ## Aanpak
 
-Vandaag voer je een code-review uit op de repo 'Fix the Flow' van een andere groep. Dit is de groep die direct onder jullie op het bord staat. Jullie bekijken gezamenlijk, samen met jullie mentor, de code van drie andere studenten uit deze groep en bespreken eventuele verbeterpunten. Gebruik de onderstaande richtlijnen voor de review. Schiet samen issues in waar nodig. Maak voor elke feedback punt een apart issue aan.
+Vandaag voer je een code en design-review uit op de repo 'Fix the Flow' van een andere groep. Dit is de groep die direct onder jullie op het bord staat. Jullie bekijken gezamenlijk, samen met jullie mentor, de code van drie andere studenten uit deze groep en bespreken eventuele verbeterpunten. Gebruik de onderstaande richtlijnen voor de review. Schiet samen issues in waar nodig. Maak voor elke feedback punt een apart issue aan.
 
 ### Code-review Programming User Interaction
 1.  Controleer het JavaScript-bestand en beoordeel of er duidelijke code-comments zijn toegevoegd, zoals beschreven in het kopje [Van Comments naar code](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/programming-user-interaction.md#van-comments-naar-code). Zijn de comments begrijpelijk en helpen ze om de logica van de code te volgen? 
