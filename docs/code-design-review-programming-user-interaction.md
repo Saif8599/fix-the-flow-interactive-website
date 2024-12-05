@@ -11,7 +11,7 @@ Vandaag voer je een code en design-review uit op de repo 'Fix the Flow' van een 
 ### Code-review:
 1.  Controleer het JavaScript-bestand en beoordeel of er duidelijke code-comments zijn toegevoegd, zoals beschreven in het kopje [Van Comments naar code](https://github.com/fdnd-task/fix-the-flow-interactive-website/blob/main/docs/programming-user-interaction.md#van-comments-naar-code). Zijn de comments begrijpelijk en helpen ze om de logica van de code te volgen? 
 2.   Bekijk de aangemaakte variabelen in het JavaScript-bestand. Geven de namen van de variabelen een goed beeld van wat erin wordt opgeslagen?  
-3. Bekijk of er in het JS bestand styling (CSS) wordt aangepast. Maak hiervoor een issue aan dat je HTML, CSS en JavaScript van elkaar wil scheiden in aparte bestanden. HTML is voor de structuur en inhoud van de pagina, CSS zorgt voor de opmaak en JavaScript zorgt voor de interactiviteit. Overleg met elkaar hoe je dit zou kunnen oplossen door gebruik te maken van bijvoorbeeld `classList.toggle()`. Wanneer de CSS in JS wordt aangepast, kan dit er zo uitzien:
+3. Controleer of er styling (CSS) wordt aangepast in het JavaScript-bestand. Indien dit het geval is, maak dan een issue aan om HTML, CSS en JavaScript van elkaar te scheiden in aparte bestanden. HTML moet verantwoordelijk zijn voor de structuur en inhoud van de pagina, CSS voor de opmaak en JavaScript voor de interactiviteit. Bespreek met het team hoe je dit het beste kunt oplossen, bijvoorbeeld door gebruik te maken van de classList.toggle() methode. Wanneer CSS in JavaScript wordt aangepast, kan dit er bijvoorbeeld zo uitzien:
 
 ```js
 let button = document.querySelector('button');
