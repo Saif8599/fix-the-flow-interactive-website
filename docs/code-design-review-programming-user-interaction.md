@@ -21,6 +21,6 @@ button.style.color = 'red';
 ```
 
 ### Design-review:
-1. Analyseer met elkaar hoe feedforward is toegepast in het ontwerp. Begrijpt de gebruiker meteen wat er zal gebeuren bij interactie met een element? Bespreek met de groep of er visuele of tekstuele verbeteringen mogelijk zijn om dit te verduidelijken.
-2. Beoordeel hoe feedback is verwerkt in de interactie. Is het voor de gebruiker duidelijk wat er gebeurt nadat een interactie heeft plaatsgevonden? Zijn de signalen die feedback geven (bijvoorbeeld kleurveranderingen, meldingen of animaties) logisch en consistent?  
+1. Analyseer met elkaar hoe feedforward is toegepast in het ontwerp. Begrijpt de gebruiker meteen wat er zal gebeuren bij interactie met het element? Bespreek met de groep of er visuele of tekstuele verbeteringen mogelijk zijn om dit te verduidelijken.
+2. Beoordeel hoe feedback is verwerkt in de interactie. Is het voor de gebruiker duidelijk wat er gebeurt nadat een interactie heeft plaatsgevonden? Zijn de signalen die feedback geven (bijvoorbeeld kleurveranderingen, meldingen of animaties) logisch?  
 3. Maak een issue aan hoe de interactie nog vetter, functioneler of toegankelijker gemaakt kan worden. Gebruik hiervoor jullie verbeeldingskracht. Het mag out-of-the-box zijn!  
