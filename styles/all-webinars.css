@@ -141,7 +141,7 @@ nav ul li {
   }
 }
 
-.search-bar input:focus{
+.search-bar input:focus {
   border-radius: 5px;
   border: 1px solid #6a0025;
 }
@@ -259,6 +259,7 @@ nav ul li {
   margin-top: 15px;
   color: #1f000b;
   font-weight: 700;
+  cursor: pointer;
   overflow-x: auto; /* Dit zorgt ervoor dat je kan scrollen als het overflowt*/
   @media (min-width: 600px) {
     margin-bottom: 50px;
@@ -280,8 +281,17 @@ nav ul li {
 }
 
 /* All Webinars */
+
+.all-webinars {
+  margin-bottom: 120px;
+}
+
 .all-webinars h2 {
   color: #6a0025;
+}
+
+.result {
+  display: none;
 }
 
 .webinar-grid {
@@ -291,7 +301,6 @@ nav ul li {
     1fr
   ); /* Hierbij word er 2 kolommen gemaakt van 2 1fr's */
   gap: 15px;
-  margin-bottom: 100px;
   @media (min-width: 600px) {
     grid-template-columns: repeat(auto-fit, minmax(30%, 1fr));
     gap: 20px;
@@ -300,6 +309,14 @@ nav ul li {
   @media (min-width: 1000px) {
     grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
   }
+}
+
+.webinar-item {
+  display: none;
+}
+
+.webinar-item.active {
+  display: block;
 }
 
 .webinar-item img {

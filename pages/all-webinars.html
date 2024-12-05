@@ -67,7 +67,9 @@
                 fill="#6A0025"
               />
             </svg>
-            <a href="/pages/all-webinars.html" aria-label="Webinars">Webinars</a>
+            <a href="/pages/all-webinars.html" aria-label="Webinars"
+              >Webinars</a
+            >
           </li>
           <li>
             <svg
@@ -168,35 +170,62 @@
       <!-- Webinar Subjects -->
       <div class="subject-boxes">
         <div>
-          <a href="#" tabindex="0">All</a>
-          <a href="#" tabindex="0">Breast</a>
-          <a href="#" tabindex="0">Gastrointestinal</a>
-          <a href="#" tabindex="0">Gynaecology</a>
-          <a href="#" tabindex="0">Head & Neck</a>
-          <a href="#" tabindex="0">Lung</a>
-          <a href="#" tabindex="0">Neuro-oncology</a>
-          <a href="#" tabindex="0">Prostate</a>
-          <a href="#" tabindex="0">Urology</a>
+          <a data-category="All" class="subject-all" tabindex="0">All</a>
+          <a data-category="Breast" class="subject-breast" tabindex="0"
+            >Breast</a
+          >
+          <a
+            data-category="Gastrointestinal"
+            class="subject-gastrointestinal"
+            tabindex="0"
+            >Gastrointestinal</a
+          >
+          <a
+            data-category="Gynaecology"
+            class="subject-gynaecology"
+            tabindex="0"
+            >Gynaecology</a
+          >
+          <a data-category="HeadNeck" class="subject-headNeck" tabindex="0"
+            >Head & Neck</a
+          >
+          <a data-category="Lung" class="subject-lung" tabindex="0">Lung</a>
+          <a
+            data-category="NeuroOncology"
+            class="subject-neuro-oncology"
+            tabindex="0"
+            >Neuro-oncology</a
+          >
+          <a data-category="Prostate" class="subject-prostate" tabindex="0"
+            >Prostate</a
+          >
+          <a data-category="Urology" class="subject-urology" tabindex="0"
+            >Urology</a
+          >
         </div>
       </div>
 
       <!-- All Webinars -->
       <section class="all-webinars">
         <h2>All</h2>
+        <h3 id="result"></h3>
         <div class="webinar-grid">
-          <article class="webinar-item" tabindex="0">
-            <a href="../pages/webinars/webinar-detail.html" class="webinar-link">
-            <div class="webinar-media-container">
-              <img
-                src="../Assets/FractionHead&Neck.png"
-                alt="Webinar FractionHead&Neck"
-                class="webinar-media"
-              />
-              <span class="video-duration">1:00:00</span>
-            </div>
-            <h3 id="webinar-description-1">22th Faro webinar: 1</h3>
-            <p class="speaker-name">John Doe, DM</p>
-          </a>
+          <article class="webinar-item" data-category="HeadNeck" tabindex="0">
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../Assets/FractionHead&Neck.png"
+                  alt="Webinar FractionHead&Neck"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:00:00</span>
+              </div>
+              <h3 id="webinar-description-1">22th Faro webinar: 1</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
             <div class="webinar-actions">
               <div class="webinar-actions-subject">
                 <a href="#" tabindex="0" class="webinar-subject-link"
@@ -206,7 +235,10 @@
                   >Fractionation</a
                 >
               </div>
-              <a href="../pages/webinars/webinar-detail.html" class="webinar-watch-link">
+              <a
+                href="../pages/webinars/webinar-detail.html"
+                class="webinar-watch-link"
+              >
                 Watch
                 <svg
                   width="16"
@@ -223,21 +255,28 @@
                 </svg>
               </a>
             </div>
-        </article>
+          </article>
 
-          <article class="webinar-item" tabindex="0">
-            <a href="../pages/webinars/webinar-detail.html" class="webinar-link">
-            <div class="webinar-media-container">
-              <img
-                src="../Assets/Neuro-Oncology.png"
-                alt="Webinar Neuro-Oncology"
-                class="webinar-media"
-              />
-              <span class="video-duration">1:00:00</span>
-            </div>
-            <h3 id="webinar-description-2">23th Faro webinar: 2</h3>
-            <p class="speaker-name">John Doe, DM</p>
-          </a>
+          <article
+            class="webinar-item"
+            data-category="NeuroOncology"
+            tabindex="0"
+          >
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../Assets/Neuro-Oncology.png"
+                  alt="Webinar Neuro-Oncology"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:00:00</span>
+              </div>
+              <h3 id="webinar-description-2">23th Faro webinar: 2</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
             <div class="webinar-actions">
               <div class="webinar-actions-subject">
                 <a href="#" tabindex="0" class="webinar-subject-link"
@@ -263,26 +302,32 @@
             </div>
           </article>
 
-          <article class="webinar-item" tabindex="0">
-            <a href="../pages/webinars/webinar-detail.html" class="webinar-link">
-            <div class="webinar-media-container">
-              <img
-                src="../Assets/Urology.png"
-                alt="Webinar Urology"
-                class="webinar-media"
-              />
-              <span class="video-duration">1:00:00</span>
-            </div>
-            <h3 id="webinar-description-3">24th Faro webinar: 3</h3>
-            <p class="speaker-name">John Doe, DM</p>
-          </a>
+          <article class="webinar-item" data-category="Urology" tabindex="0">
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../Assets/Urology.png"
+                  alt="Webinar Urology"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:00:00</span>
+              </div>
+              <h3 id="webinar-description-3">24th Faro webinar: 3</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
             <div class="webinar-actions">
               <div class="webinar-actions-subject">
                 <a href="#" tabindex="0" class="webinar-subject-link"
                   >Urology</a
                 >
               </div>
-              <a href="../pages/webinars/webinar-detail.html" class="webinar-watch-link">
+              <a
+                href="../pages/webinars/webinar-detail.html"
+                class="webinar-watch-link"
+              >
                 Watch
                 <svg
                   width="16"
@@ -301,26 +346,36 @@
             </div>
           </article>
 
-          <article class="webinar-item" tabindex="0">
-            <a href="../pages/webinars/webinar-detail.html" class="webinar-link">
-            <div class="webinar-media-container">
-              <img
-                src="../Assets/Gynaecology.png"
-                alt="Webinar Gynaecology"
-                class="webinar-media"
-              />
-              <span class="video-duration">1:00:00</span>
-            </div>
-            <h3 id="webinar-description-4">25th Faro webinar: 4</h3>
-            <p class="speaker-name">John Doe, DM</p>
-          </a>
+          <article
+            class="webinar-item"
+            data-category="Gynaecology"
+            tabindex="0"
+          >
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../Assets/Gynaecology.png"
+                  alt="Webinar Gynaecology"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:00:00</span>
+              </div>
+              <h3 id="webinar-description-4">25th Faro webinar: 4</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
             <div class="webinar-actions">
               <div class="webinar-actions-subject">
                 <a href="#" tabindex="0" class="webinar-subject-link"
                   >Gynaecology</a
                 >
               </div>
-              <a href="../pages/webinars/webinar-detail.html" class="webinar-watch-link">
+              <a
+                href="../pages/webinars/webinar-detail.html"
+                class="webinar-watch-link"
+              >
                 Watch
                 <svg
                   width="16"
@@ -339,26 +394,36 @@
             </div>
           </article>
 
-          <article class="webinar-item" tabindex="0">
-            <a href="../pages/webinars/webinar-detail.html" class="webinar-link">
-            <div class="webinar-media-container">
-              <img
-                src="../Assets/Gastrointestinal.png"
-                alt="Webinar Gastrointestinal"
-                class="webinar-media"
-              />
-              <span class="video-duration">1:00:00</span>
-            </div>
-            <h3 id="webinar-description-5">25th Faro webinar: 5</h3>
-            <p class="speaker-name">John Doe, DM</p>
-          </a>
+          <article
+            class="webinar-item"
+            data-category="Gastrointestinal"
+            tabindex="0"
+          >
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../Assets/Gastrointestinal.png"
+                  alt="Webinar Gastrointestinal"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:00:00</span>
+              </div>
+              <h3 id="webinar-description-5">25th Faro webinar: 5</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
             <div class="webinar-actions">
               <div class="webinar-actions-subject">
                 <a href="#" tabindex="0" class="webinar-subject-link"
                   >Gastrointestinal</a
                 >
               </div>
-              <a href="../pages/webinars/webinar-detail.html" class="webinar-watch-link">
+              <a
+                href="../pages/webinars/webinar-detail.html"
+                class="webinar-watch-link"
+              >
                 Watch
                 <svg
                   width="16"
@@ -377,26 +442,30 @@
             </div>
           </article>
 
-          <article class="webinar-item" tabindex="0">
-            <a href="../pages/webinars/webinar-detail.html" class="webinar-link">
-            <div class="webinar-media-container">
-              <img
-                src="../Assets/Lung.png"
-                alt="Webinar Lung"
-                class="webinar-media"
-              />
-              <span class="video-duration">1:00:00</span>
-            </div>
-            <h3 id="webinar-description-6">25th Faro webinar: 6</h3>
-            <p class="speaker-name">John Doe, DM</p>
-          </a>
+          <article class="webinar-item" data-category="Lung" tabindex="0">
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../Assets/Lung.png"
+                  alt="Webinar Lung"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:00:00</span>
+              </div>
+              <h3 id="webinar-description-6">25th Faro webinar: 6</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
             <div class="webinar-actions">
               <div class="webinar-actions-subject">
-                <a href="#" tabindex="0" class="webinar-subject-link"
-                  >Lung</a
-                >
+                <a href="#" tabindex="0" class="webinar-subject-link">Lung</a>
               </div>
-              <a href="../pages/webinars/webinar-detail.html" class="webinar-watch-link">
+              <a
+                href="../pages/webinars/webinar-detail.html"
+                class="webinar-watch-link"
+              >
                 Watch
                 <svg
                   width="16"
@@ -432,7 +501,11 @@
           <a href="#">Cookieverklaring</a>
         </li>
       </ul>
-      <a href="../index.html" class="footer-logo" aria-label="Antoni van Leeuwenhoek">
+      <a
+        href="../index.html"
+        class="footer-logo"
+        aria-label="Antoni van Leeuwenhoek"
+      >
         <svg
           width="143"
           height="46"
@@ -452,4 +525,5 @@
       </a>
     </footer>
   </body>
+  <script src="../scripts/all-webinars.js"></script>
 </html>
