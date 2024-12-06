@@ -261,12 +261,13 @@ nav ul li {
   font-weight: 700;
   cursor: pointer;
   overflow-x: auto; /* Dit zorgt ervoor dat je kan scrollen als het overflowt*/
+  text-decoration: none;
   @media (min-width: 600px) {
     margin-bottom: 50px;
   }
 }
 
-.subject-boxes a {
+.subject-boxes button {
   display: inline-block;
   padding: 5px 10px;
   border-radius: 5px;
@@ -275,7 +276,13 @@ nav ul li {
   text-decoration: none;
 }
 
-.subject-boxes a:first-child {
+.subject-boxes button:hover {
+  color: #d2b2bd;
+  background-color: #6a0025;
+  border: 2px solid black;
+}
+
+.subject-boxes button:first-child {
   background-color: #6a0025;
   color: #d2b2bd;
 }
