@@ -112,6 +112,10 @@
       <!-- Search Functon -->
       <section class="search-function">
         <h1>Webinars</h1>
+        <p class="page-description">
+          Bekijk onze uitgebreide collectie webinars over verschillende
+          onderwerpen en ontdek waardevolle informatie van experts in het veld.
+        </p>
         <form class="search-bar" action="#" method="GET">
           <input
             type="text"
@@ -167,50 +171,76 @@
         </article>
       </section>
 
-
       <!-- All Webinars -->
       <section class="all-webinars">
-        <h2>All</h2>
+        <h2>All webinars</h2>
+        <p class="page-description">
+          Bekijk hier alle beschikbare webinars of filter op een specifieke
+          categorie om sneller te vinden wat je zoekt.
+        </p>
         <!-- Webinar Subjects -->
         <div class="subject-boxes">
           <div>
-            <button data-category="All" class="subject-all" tabindex="0">All</button>
-            <button data-category="Breast" class="subject-breast" tabindex="0"
-              >Breast</button
-            >
+            <button data-category="All" class="subject-all" tabindex="0">
+              All
+            </button>
+            <button data-category="Breast" class="subject-breast" tabindex="0">
+              Breast
+            </button>
             <button
               data-category="Gastrointestinal"
               class="subject-gastrointestinal"
               tabindex="0"
-              >Gastrointestinal</button
             >
+              Gastrointestinal
+            </button>
             <button
               data-category="Gynaecology"
               class="subject-gynaecology"
               tabindex="0"
-              >Gynaecology</button
             >
-            <button data-category="HeadNeck" class="subject-headNeck" tabindex="0"
-              >Head & Neck</button
-            >
-            <button data-category="Lung" class="subject-lung" tabindex="0">Lung</button>
+              Gynaecology
+            </button>
             <button
-              data-category="NeuroOncology"
+              data-category="Head & Neck"
+              class="subject-headNeck"
+              tabindex="0"
+            >
+              Head & Neck
+            </button>
+            <button data-category="Lung" class="subject-lung" tabindex="0">
+              Lung
+            </button>
+            <button
+              data-category="Neuro-oncology"
               class="subject-neuro-oncology"
               tabindex="0"
-              >Neuro-oncology</button
             >
-            <button data-category="Prostate" class="subject-prostate" tabindex="0"
-              >Prostate</button
+              Neuro-oncology
+            </button>
+            <button
+              data-category="Prostate"
+              class="subject-prostate"
+              tabindex="0"
             >
-            <button data-category="Urology" class="subject-urology" tabindex="0"
-              >Urology</button
+              Prostate
+            </button>
+            <button
+              data-category="Urology"
+              class="subject-urology"
+              tabindex="0"
             >
+              Urology
+            </button>
           </div>
         </div>
         <h3 id="result"></h3>
         <div class="webinar-grid">
-          <article class="webinar-item" data-category="HeadNeck" tabindex="0">
+          <article
+            class="webinar-item"
+            data-category="Head & Neck"
+            tabindex="0"
+          >
             <a
               href="../pages/webinars/webinar-detail.html"
               class="webinar-link"
@@ -456,6 +486,47 @@
                 <span class="video-duration">1:00:00</span>
               </div>
               <h3 id="webinar-description-6">25th Faro webinar: 6</h3>
+              <p class="speaker-name">John Doe, DM</p>
+            </a>
+            <div class="webinar-actions">
+              <div class="webinar-actions-subject">
+                <a href="#" tabindex="0" class="webinar-subject-link">Lung</a>
+              </div>
+              <a
+                href="../pages/webinars/webinar-detail.html"
+                class="webinar-watch-link"
+              >
+                Watch
+                <svg
+                  width="16"
+                  height="12"
+                  viewBox="0 0 16 12"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                  class="watch-icon"
+                >
+                  <path
+                    d="M9.84613 11.6538L8.7923 10.5692L12.6116 6.74999H0.5V5.25004H12.6116L8.7923 1.43079L9.84613 0.346191L15.5 6.00002L9.84613 11.6538Z"
+                    fill="#6A0025"
+                  />
+                </svg>
+              </a>
+            </div>
+          </article>
+          <article class="webinar-item" data-category="Lung" tabindex="0">
+            <a
+              href="../pages/webinars/webinar-detail.html"
+              class="webinar-link"
+            >
+              <div class="webinar-media-container">
+                <img
+                  src="../assets/Lung.png"
+                  alt="Webinar Lung"
+                  class="webinar-media"
+                />
+                <span class="video-duration">1:30:00</span>
+              </div>
+              <h3 id="webinar-description-6">25th Faro webinar: 7</h3>
               <p class="speaker-name">John Doe, DM</p>
             </a>
             <div class="webinar-actions">
