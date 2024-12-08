@@ -228,6 +228,7 @@ nav ul li {
 .featured-webinar #webinar-description {
   font-size: 1.5em;
   margin-top: 5px;
+  margin-bottom: 0px;
 }
 
 .featured-webinar .speaker-name {
@@ -259,7 +260,6 @@ nav ul li {
   margin-top: 15px;
   color: #1f000b;
   font-weight: 700;
-  cursor: pointer;
   overflow-x: auto; /* Dit zorgt ervoor dat je kan scrollen als het overflowt*/
   text-decoration: none;
   @media (min-width: 600px) {
@@ -271,6 +271,7 @@ nav ul li {
   display: inline-block;
   padding: 5px 10px;
   border-radius: 5px;
+  cursor: pointer;
   color: #1f000b;
   background-color: #d2b2bd;
   text-decoration: none;
@@ -290,11 +291,18 @@ nav ul li {
 /* All Webinars */
 
 .all-webinars {
-  margin-bottom: 120px;
+  margin-bottom: 300px;
 }
 
 .all-webinars h2 {
   color: #6a0025;
+}
+
+.page-description {
+  font-size: 1rem;
+  color: black;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .result {
