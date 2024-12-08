@@ -30,6 +30,8 @@ Voordat je een Wireflow gaat tekenen, moet je eerst goed beschrijven wie de gebr
 
 Een *User Story* is een korte beschrijving (story) van wat een gebruiker (user) wil. Het is een kort verhaaltje, geschreven vanuit de gebruiker, en het maakt duidelijk wat een gebruiker wil. Bijvoobeeld: `Als een online shopper, wil ik de mogelijkheid hebben om producten te vergelijken, zodat ik de beste keuze kan maken en geld kan besparen.`
 
+In een *User Story* staat niet de oplossing beschreven of hoe iets er uit moet zien. Het is een 'ontwerpprobleem". Een 'User Story' beschrijft wat een gebruiker moet kunnen doen plus het gewenste resultaat. Daarna kan je door iteratief te werken, door te ontwerpen en bouwen em testen, de beste oplossing voor het 'probleem' proberen te maken. 
+
 Een *User Story* volg een vaste schrijfwijze: 
 
 ![Als <gebruiker> wil ik <functionaliteit> zodat <meerwaarde>.](user-story.png)
