@@ -6,7 +6,7 @@ Feedback en Feedforward leren ontwerpen en bouwen voor formulieren.
 
 In Sprint 4 ben je begonnen met het maken van formulierelementen. Misschien heb je er ook al een paar toegepast voor je opdrachtgever; filters, een contactformulier, een zoekveld, een chatformulier, een reactieformulier, etc. Met een goede basis in HTML maak je ze voor iedereen _Toegankelijk_ en bruikbaar. En met CSS zorg je dat de verschillende _states_ in de huisstijl van de opdrachtgever vormgegeven worden.
 
-In HTML kun je ook al een aantal extra regels meegeven als attribuut. Of een invoerveld vereist is bijvoorbeeld (met het `required` attribuut). Hiermee voegen we _validatie_ aan een formulier toe. Deze extra validatieregels zorgen ervoor dat een formulier prettiger te gebruiken is. Browsers bieden een hoop extra's in CSS en JS rondom het valideren van formulieren.
+In HTML kun je ook al een aantal extra regels meegeven als attribuut. Of een invoerveld vereist is bijvoorbeeld (met het `required` attribuut). Hiermee voegen we _validatie_ aan een formulier toe (niet te verwarren met HTML validatie, wat weer wat anders is). Deze extra validatieregels zorgen ervoor dat een formulier prettiger te gebruiken is. Browsers bieden een hoop extra's in CSS en JS rondom het valideren van formulieren.
 
 Probeer na deze workshop de nieuwe kennis over formuliervalidatie toe te passen in je huidige project.
 
