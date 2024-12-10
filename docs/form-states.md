@@ -83,7 +83,7 @@ Om het echt goed te krijgen, moet je nog wat extra werk doen, maar je weet nu in
 
 ## Feedback van formuliervelden vormgeven en stylen
 
-Vooral de `:user-invalid` en `:user-valid` _pseudo-classes_ werken goed samen met bovenstaande HTML en JS. Vrijwel alles rondom de feedback en feedforward van formuliervalidatie is met deze bouwstenen te maken. Zeker als je `:has()` hierin combineert. Voeg dit bijvoorbeeld eens toe aan je HTML, en probeer het formulier te versturen:
+Vooral de `:user-invalid` en `:user-valid` _pseudo-classes_ werken goed samen met bovenstaande HTML en JS. Vrijwel alles rondom de feedback en feedforward van formuliervalidatie is met deze bouwstenen te maken. Zeker als je `:has()` hierin combineert. Voeg dit bijvoorbeeld eens toe aan je HTML, en probeer het formulier te versturen. Meestal voegen we CSS toe via een extern bestand, maar voor kleine experimenten wrkt dit ook:
 
 ```html
 <style>
