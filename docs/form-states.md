@@ -93,6 +93,8 @@ fieldset:has(:user-invalid) {
 </style>
 ```
 
+![](sorry-but-no.png)
+
 Formuliervelden zelf consistent vormgeven is een vak apart, en biedt soms uitdagingen. Hieronder staan een aantal bronnen, die je gaan helpen bij het oplossen van styling problemen. Lees ook vooral het eerste artikel door, als je meer wilt leren over wat formuliervelden _usable_ maakt.
 
 ### Bronnen
