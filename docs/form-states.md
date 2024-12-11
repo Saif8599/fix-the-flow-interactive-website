@@ -49,18 +49,19 @@ Sla je HTML op en probeer het formulier te versturen in verschillende browsers.
 ### Bronnen
 
 - [Client-side form validation: Using built-in form validation @ MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#using_built-in_form_validation)
+- [Form Validation Part 1: Constraint Validation in HTML @ CSS Tricks](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 
 
 ## Het `invalid` event gebruiken
 
-Zoals je deze en vorige week hebt geleerd, biedt je browser een hoop _events_. Je kunt naar events luisteren met `addEventListener`. Zo hebben formuliervelden een `invalid` _event_, die wordt afgevuurd zodra de browser een veld niet door de validatie laat komen. Je kunt vervolgens vragen aan de browser _waarom_ dat veld _invalid_ was, maar je kunt ook de feedback op dat moment aanpassen. Zet bijvoorbeeld het volgende script in je HTML. Meestal doen we dat via een apart bestand, maar voor kleine experimenten werkt dit ook:
+Zoals je deze en vorige week hebt geleerd, biedt je browser een hoop _events_. Je kunt naar events luisteren met `addEventListener`. Zo hebben formuliervelden een `invalid` _event_, dat wordt afgevuurd zodra de browser een veld niet door de validatie laat komen. Je kunt vervolgens vragen aan de browser _waarom_ dat veld _invalid_ was, maar je kunt ook de feedback op dat moment aanpassen. Zet bijvoorbeeld het volgende script in je HTML. Meestal doen we dat via een apart bestand, maar voor kleine experimenten werkt dit ook:
 
 ```html
 <script type="module">
 // Stap 1: zoek de input en stop die in een variabele
 let inputElement = document.querySelector('input');
 
-// Stap 2: luister naar het invalid event, en wacht tot die afgevuurd wordt..
+// Stap 2: luister naar het invalid event, en wacht tot dat afgevuurd wordt..
 inputElement.addEventListener('invalid', function(ev) {
 
   // Stap 3: pas de tekst in de validatiemelding aan
@@ -78,12 +79,14 @@ Om het echt goed te krijgen, moet je nog wat extra werk doen, maar je weet nu in
 
 - [setCustomValidity() method @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/setCustomValidity)
 - [input.validity property @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/validity)
+- [ValidityState @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/ValidityState)
 - [invalid event @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLInputElement/invalid_event)
+- [Form Validation Part 2: The Constraint Validation API (JavaScript) @ CSS Tricks](https://css-tricks.com/form-validation-part-2-constraint-validation-api-javascript/)
 
 
 ## Feedback van formuliervelden vormgeven en stylen
 
-Vooral de `:user-invalid` en `:user-valid` _pseudo-classes_ werken goed samen met bovenstaande HTML en JS. Vrijwel alles rondom de feedback en feedforward van formuliervalidatie is met deze bouwstenen te maken. Zeker als je `:has()` hierin combineert. Voeg dit bijvoorbeeld eens toe aan je HTML, en probeer het formulier te versturen. Meestal voegen we CSS toe via een extern bestand, maar voor kleine experimenten wrkt dit ook:
+Vooral de `:user-invalid` en `:user-valid` _pseudo-classes_ werken goed samen met bovenstaande HTML en JS. Vrijwel alles rondom de feedback en feedforward van formuliervalidatie is met deze bouwstenen te maken. Zeker als je `:has()` hierin combineert. Voeg dit bijvoorbeeld eens toe aan je HTML, en probeer het formulier te versturen. Meestal voegen we CSS toe via een extern bestand, maar voor kleine experimenten werkt dit ook:
 
 ```html
 <style>
