@@ -44,14 +44,14 @@ Om de formuliervalidatie van een browser te kunnen gebruiken, heb je altijd een 
 
 Sla je HTML op en probeer het formulier te versturen in verschillende browsers.
 
-💡 Als frontender is het trouwens verstandig om zoveel mogelijk browsers te verzamelen, ook op je telefoon. De gebruikers van wat je aan het maken bent, hebben waarschijnlijk namelijk ook een andere browser dan jij. Dus download Firefox, Chrome, Arc, Edge, Vivaldi, Samsung Internet, Polypane, Opera, Dolphin, Zen Browser, etc. Maar ook Safari Technology Preview, Firefox Nightly, Chrome Canary en Edge Canary, zodat je als frontender klaar bent om nieuwe technieken uit te proberen. Schrijf met je tafel op het whiteboard welke browsers jullie geïnstalleerd hebben. De tafel met de meeste browsers krijgt een cookie melding.
-
-![](browsers.jpg)
-
 ### Bronnen
 
 - [Client-side form validation: Using built-in form validation @ MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation#using_built-in_form_validation)
 - [Form Validation Part 1: Constraint Validation in HTML @ CSS Tricks](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+
+💡 Als frontender is het trouwens verstandig om zoveel mogelijk browsers te verzamelen, ook op je telefoon. De gebruikers van wat je aan het maken bent, hebben waarschijnlijk namelijk ook een andere browser dan jij. Dus download Firefox, Chrome, Arc, Edge, Vivaldi, Samsung Internet, Polypane, Opera, Dolphin, Zen Browser, etc. Maar ook Safari Technology Preview, Firefox Nightly, Chrome Canary en Edge Canary, zodat je als frontender klaar bent om nieuwe technieken uit te proberen. Schrijf met je tafel op het whiteboard welke browsers jullie geïnstalleerd hebben. De tafel met de meeste browsers krijgt een cookie melding.
+
+![](browsers.jpg)
 
 
 ## Het `invalid` event gebruiken
