@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      fieldset:has(:user-invalid) span::before {
+        content: "✖";
+        color: red;
+        border-radius: 3px;
+        border: 1px solid rgb(127, 62, 62);
+        background: rgb(255, 228, 228);
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <fieldset>
+        <legend>Zoeken</legend>
+        <input required />
+        <button type="submit">Zoek!</button>
+        <span></span>
+      </fieldset>
+    </form>
+    <form>
+      <fieldset>
+        <legend>Selecteer een optie</legend>
+
+        <label><input type="radio" name="option" required /> Optie 1</label>
+        <label><input type="radio" name="option" required /> Optie 2</label>
+        <label><input type="radio" name="option" required /> Optie 3</label>
+
+        <input type="submit" value="Verstuur" />
+        <span></span>
+      </fieldset>
+    </form>
+  </body>
+  <script src="../scripts/validatie.js"></script>
+</html>
