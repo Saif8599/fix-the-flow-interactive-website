@@ -15,7 +15,7 @@ Vaak hoor je van vrienden of klasgenoten alleen wat er goed is. Dat is fijn, maa
 Tijdens een gebruikerstest observeer je hoe iemand jouw website gebruikt, zonder in te grijpen. Het is belangrijk om niet in de valkuil te trappen waarin je uitlegt wat er moet gebeuren. Laat de gebruiker worstelen als dat nodig is – dát zijn de momenten waarop je leert!  
 
 ## Aanpak  
-Wanneer je gaat testen werk je volgens een vijf-stappenplan. Elke stap wordt hieronder verder toegelicht:
+Wanneer je gaat testen werk je volgens onderstaande 5 stappen. Elke stap wordt hieronder verder toegelicht:
 1. Een lijst maken met taken die je wil testen
 2. Verander de taken in scenario's
 3. Proef-test de scenario's.
