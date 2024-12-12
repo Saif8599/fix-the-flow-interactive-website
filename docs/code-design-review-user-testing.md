@@ -25,12 +25,12 @@ Wanneer je gaat testen werk je volgens een vijf-stappenplan. Elke stap wordt hie
 ## Een testplan opzetten  
 Om te beginnen bedenk je wat je precies wilt testen. Maak een lijst met taken en werk deze uit tot scenario’s.  
 
-1. **Lijst met taken:** Maak een overzicht van belangrijke acties die gebruikers op jouw website moeten kunnen uitvoeren. Bijvoorbeeld:  
+1. **Lijst met taken:** Maak een overzicht van belangrijke acties die gebruikers op jouw website moeten kunnen uitvoeren. Bedenk minimaal één en maximaal drie taken. Bijvoorbeeld:  
    > - Informatie vinden over workshops  
    > - Aanmelden voor workshops  
    > - Een proefhoofdstuk van een boek lezen  
 
-2. **Scenario’s maken:** Breid de taken uit naar scenario’s die de gebruiker kunnen volgen. Deze scenario’s bieden meer context en details over de situatie waarin de gebruiker zich bevindt. Werk minimaal één en maximaal drie scenario’s uit. Bijvoorbeeld:  
+2. **Scenario’s maken:** Breid één taak uit naar een scenario die de gebruiker kan volgen. Dit scenario biedt meer context en details over de situatie waarin de gebruiker zich bevindt. Bijvoorbeeld:  
 
    > **Taak:** Aanmelden voor een Associate degree bij de HvA.  
    >  
@@ -44,11 +44,15 @@ Nu je weet wat je wilt testen, voer je de tests uit met minimaal drie gebruikers
 
 Let tijdens het testen op de volgende punten:  
 - **Moedig gebruikers aan om hardop te denken:** Laat ze hun gedachten uitspreken terwijl ze de taak uitvoeren.  
+![image](https://github.com/user-attachments/assets/3decb608-a7be-4aea-ac98-66854673314a)
 - **Blijf neutraal:** Beïnvloed gebruikers niet.  
+![image](https://github.com/user-attachments/assets/30a136b7-2c46-468f-a4a2-5ee184ac257f)
 - **Observeer zonder in te grijpen:** Het is verleidelijk om uitleg te geven als je ziet dat iemand vastloopt, maar juist door te observeren ontdek je waar je ontwerp tekortschiet.  
 - **Stel open vragen:** Als een gebruiker iets vraagt, beantwoord dan niet direct, maar vraag door. Bijvoorbeeld:  
   - Gebruiker: *Moet ik op deze knop klikken?*  
   - Jij: *Wat denk je dat er gebeurt als je erop klikt?*  
+![image](https://github.com/user-attachments/assets/115a1de3-5e55-4af9-af9b-742433d78002)
+
 
 ## Verwerken van testresultaten  
 Vat je testplan samen en verwerk de resultaten in een issue genaamd *User Test*. Noteer wat goed ging en wat niet. Vaak komen de meest waardevolle inzichten uit onverwachte verbeterpunten. Dit zijn momenten waarop je denkt: *Hoe heb ik dit kunnen missen?*  
