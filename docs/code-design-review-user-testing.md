@@ -23,18 +23,11 @@ Wanneer je gaat testen werk je volgens een vijf-stappenplan. Elke stap wordt hie
 5. Documenteer je testplan en resultaten
 
 ## Een testplan opzetten  
-Om te beginnen bedenk je wat je precies wilt testen. Maak een lijst met taken en werk deze uit tot scenario’s.  
+Schrijf voor je gekozen user story een scenario. Dit scenario biedt meer context en details over de situatie waarin de gebruiker zich bevindt. Bijvoorbeeld:  
 
-1. **Lijst met taken:** Maak een overzicht van belangrijke acties die gebruikers op jouw website moeten kunnen uitvoeren. Bedenk minimaal één en maximaal drie taken. Bijvoorbeeld:  
-   > - Informatie vinden over workshops  
-   > - Aanmelden voor workshops  
-   > - Een proefhoofdstuk van een boek lezen  
-
-2. **Scenario’s maken:** Breid één taak uit naar een scenario die de gebruiker kan volgen. Dit scenario biedt meer context en details over de situatie waarin de gebruiker zich bevindt. Bijvoorbeeld:  
-
-   > **Taak:** Aanmelden voor een Associate degree bij de HvA.  
+   > **User story:** Als toekomstige student wil ik mij aanmelden voor de opleiding FDND, zodat ik komend schooljaar van start kan bij deze Associate degree op de HvA.  
    >  
-   > **Scenario:** Je hebt een niveau 4-diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Schrijf je in voor toelating tot een studie.  
+   > **Scenario:** Je hebt een niveau 4-diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Je bent momenteel op de website van de opleiding Front-end Design and Development, de opleiding waar je volgend jaar wil gaan studeren. Schrijf je in voor toelating tot deze studie.  
 
 ## Proef-test de scenario’s  
 Test je scenario’s op een echt persoon om te bepalen of gebruikers voldoende context hebben om de taken uit te voeren. Pas onduidelijkheden aan en herhaal de proef-test totdat het scenario helder is. Voer de proef-test uit met een medestudent.  
