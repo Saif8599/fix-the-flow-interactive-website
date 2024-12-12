@@ -1,72 +1,52 @@
-# Fix the Flow - Interactive Website
+# Fix the Flow - Interactive Website  
 
-## Code/Design User Testing
+## Code/Design User Testing  
+Voor deze Code/Design-review ga je de interactie van jouw ontwerp testen met drie gebruikers. Tijdens deze review leer je hoe je een gebruikerstest opzet en ontdek je waarom dit zo waardevol (en leuk!) is.  
 
-Voor de Code/Design review ga je jouw interactie testen met een gebruiker. Je leert in deze code- en design review hoe je een user test opzet en waarom het zo nuttig (en leuk) is. 
+## User Testing  
+Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets bouwen dat werkt, maar vooral over iets maken dat intuïtief en prettig te gebruiken is. Misschien denk je dat jouw micro-interactie perfect is – alles functioneert precies zoals jij het had bedacht – maar hoe ervaart een gebruiker jouw werk? Om dat te ontdekken, gebruik je user testing. Het doel is om te achterhalen hoe een echte gebruiker – iemand die jouw code niet kent – jouw werk ervaart.  
 
-## User Testing
-Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over het bouwen van iets dat werkt, maar vooral over iets dat intuïtief en prettig te gebruiken is. Je kunt misschien denken dat jouw micro-interactie perfect is – alles doet precies wat jij voor ogen had – maar hoe ervaart een gebruiker jouw werk? Om daarachter te komen, gebruik je user testing.
+Vaak hoor je van vrienden of klasgenoten alleen wat er goed is. Dat is fijn, maar daar leer je niet veel van. De meest waardevolle inzichten komen juist voort uit kritiek en fouten. Het kan pijnlijk zijn om te zien dat een gebruiker vastloopt, maar dit biedt kansen om je werk te verbeteren. User testing is een methode om je prototype te testen met echte gebruikers. Het doel is niet om aan te tonen dat je ontwerp perfect is, maar om te begrijpen hoe gebruikers ermee omgaan:  
 
-> "There are known knowns; things we know we know. There are known unknowns; things we know we do not know. But there are also unknown unknowns; the ones we don't know we don't know. - Donals Rumsfeld"
+- Begrijpen ze meteen wat ze moeten doen?  
+- Kunnen ze de interactie uitvoeren zonder uitleg?  
+- Lopen ze ergens vast of raken ze gefrustreerd?  
 
-User testing helpt je om die ‘unknown unknowns’ te ontdekken: de problemen die je zelf niet kunt zien omdat je te diep in je eigen ontwerp zit. Het doel is om te achterhalen hoe een echte gebruiker – iemand die niet jouw code kent – jouw werk ervaart. Je denkt misschien dat jouw website logisch in elkaar zit, maar een gebruiker (zonder voorkennis) kan compleet anders reageren. Wat voor jou vanzelfsprekend is, kan voor hen onduidelijk zijn. User testing brengt die misverstanden aan het licht. Vaak krijg je van vrienden of klasgenoten alleen te horen wat er goed is. Dat is fijn, maar daar leer je niet zoveel van. Het meest waardevolle inzicht komt uit kritiek en fouten. Het kan soms pijnlijk zijn om te zien dat een gebruiker vastloopt, maar juist dat biedt kansen om je werk te verbeteren.
+Tijdens een gebruikerstest observeer je hoe iemand jouw werk gebruikt, zonder in te grijpen. Het is belangrijk om niet in de valkuil te trappen waarin je uitlegt wat er moet gebeuren. Laat de gebruiker worstelen als dat nodig is – dát zijn de momenten waarop je leert!  
 
-User testing is een manier om je prototype te testen met echte gebruikers. Het doel is niet om te bewijzen dat je ontwerp perfect is, maar om te ontdekken hoe gebruikers ermee omgaan:
+## Aanpak  
+Voordat je gaat testen, stel je een testplan op. Een testplan helpt je om helder te krijgen wat je precies wilt testen. Vervolgens proef-test je dit plan voordat je het uitvoert met drie gebruikers. Tot slot documenteer je je testplan en de bijbehorende resultaten in een issue.  
 
-- Begrijpen ze direct wat ze moeten doen?
-- Kunnen ze jouw interactie uitvoeren zonder uitleg?
-- Lopen ze ergens vast of raken ze gefrustreerd?
+## Een testplan opzetten  
+Om te beginnen bedenk je wat je precies wilt testen. Maak een lijst met taken en werk deze uit tot scenario’s.  
 
-Tijdens een user test observeer je hoe iemand jouw werk gebruikt, zonder in te grijpen. Het is cruciaal om niet in de valkuil te trappen om uit te leggen wat er moet gebeuren. Laat de gebruiker worstelen als dat nodig is – dát zijn de momenten waarop je leert!
+1. **Lijst met taken:** Maak een overzicht van belangrijke acties die gebruikers op jouw website moeten kunnen uitvoeren. Bijvoorbeeld:  
+   > - Informatie vinden over workshops  
+   > - Aanmelden voor workshops  
+   > - Een proefhoofdstuk van een boek lezen  
 
-## Aanpak
-Voordat je kan testen maak je een testplan. Een testplan helpt je bij het helder hebben wat je met een gebruiker wil gaan testen. Vervolgens ga je dit testplan eerst proef-testen voordat je het met 3 gebruikers gaat testen. Uiteindelijk documenteer je jouw testplan en de bijbehorende resultaten in een issue.
+2. **Scenario’s maken:** Breid de taken uit naar scenario’s die de gebruiker kunnen volgen. Deze scenario’s bieden meer context en details over de situatie waarin de gebruiker zich bevindt. Werk minimaal één en maximaal drie scenario’s uit. Bijvoorbeeld:  
 
-## Een testplan opzetten
-Voordat we kunnen beginnen met het testen van jouw interactie, moeten we eerst bedenken wat je precies wil gaan testen. Hiervoor maak je eerst een lijst met taken aan om die vervolgens om te zetten naar scenario's. 
+   > **Taak:** Aanmelden voor een Associate degree bij de HvA.  
+   >  
+   > **Scenario:** Je hebt een niveau 4-diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Schrijf je in voor toelating tot een studie.  
 
-Maak allereerst een lijst met taken die je wil testen: Maak een lijst met belangrijke dingen die gebruikers op jouw website moeten kunnen uitvoeren. Dit kan bijvoorbeeld zo er uit zien:
+## Proef-test de scenario’s  
+Test je scenario’s op een echte persoon om te bepalen of gebruikers voldoende context hebben om de taken uit te voeren. Pas onduidelijkheden aan en herhaal de proef-test totdat het scenario helder is. Dit kun je testen met een medestudent of jouw mentor.  
 
+## Testen, testen, testen  
+Nu je weet wat je wilt testen, voer je de tests uit met minimaal drie gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Let tijdens het testen op de volgende punten:  
+- **Moedig gebruikers aan om hardop te denken:** Laat ze hun gedachten uitspreken terwijl ze de taak uitvoeren.  
+- **Blijf neutraal:** Beïnvloed gebruikers niet.  
+- **Observeer zonder in te grijpen:** Het is verleidelijk om uitleg te geven als je ziet dat iemand vastloopt, maar juist door te observeren ontdek je waar je ontwerp tekortschiet.  
+- **Stel open vragen:** Als een gebruiker iets vraagt, beantwoord dan niet direct, maar vraag door. Bijvoorbeeld:  
+  - Gebruiker: *Moet ik op deze knop klikken?*  
+  - Jij: *Wat denk je dat er gebeurt als je erop klikt?*  
 
-> User Stories:
-> - Vind informatie over workshops
-> - Aanmelden voor workshops
-> - Een proefhoofdstuk van een boek lezen
+## Verwerken van testresultaten  
+Vat je testplan samen en verwerk de resultaten in een issue genaamd *User Test*. Noteer wat goed ging en wat niet. Vaak komen de meest waardevolle inzichten uit onverwachte verbeterpunten. Dit zijn momenten waarop je denkt: *Hoe heb ik dit kunnen missen?*  
 
-Verander vervolgens de taken in scenario’s: Breid de taken uit naar scenario’s waarbij je de simpele beschrijving vertaalt naar een script dat de gebruiker kan lezen, begrijpen en volgen. Deze kleine scripts geven je details over de context die gebruikers moeten kennen om de taken uit te kunnen voeren. Werk minimaal één en maximaal drie scenario's uit. Bijvoorbeeld:
-
-
-> Taak: Aanmelden voor een Associate degree bij de HvA.
-> 
-> Scenario: Je hebt een niveau 4 diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Schrijf je in voor toelating tot een studie.
-
-
-## Proef-test de scenario’s
-Proef-test jouw scenario’s door op een écht persoon om te bepalen of je gebruikers genoeg context hebben om de taak uit te voeren. Pas bij onduidelijkheden je scenario’s aan en proef-test weer, net zo lang tot je een duidelijk scenario hebt. Dit kun je testen met een medestudent of jouw mentor. 
-
-
-## Testen, testen testen
-Nu je hebt bedacht wat je wil gaan testen, kun je aan de slag met het uitvoeren van een test. Je voert deze test uit bij minimaal 3 gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Let bij het testen op de volgende punten:
-- Moedig gebruikers aan om hardop te denken. Dat is lastig want ze moeten alles wat ze denken noemen.
-- Blijf neutraal en beïnvloed gebruikers niet! 
-- Observeer zonder in te grijpen: Dit is moeilijker dan het klinkt. Als je ziet dat een gebruiker iets fout doet, wil je het meteen uitleggen. Maar juist door te kijken waarom ze vastlopen, ontdek je waar het ontwerp niet duidelijk genoeg is.Je mag niet helpen, knikken, lachen, complimenteren … alleen saai noteren.
-- Beantwoord geen vragen maar stel vragen terug. "Gebruiker: Moet ik op deze knop klikken? Jij: Wil je op deze knop klikken? Waarom?" Probeer open vragen te stellen zoals: "Wat denk je dat deze knop doet?"
-"Waarom kies je ervoor om X te doen?"
-
-<!-- 
-![image](https://github.com/user-attachments/assets/3decb608-a7be-4aea-ac98-66854673314a)
-![image](https://github.com/user-attachments/assets/30a136b7-2c46-468f-a4a2-5ee184ac257f)
-![image](https://github.com/user-attachments/assets/115a1de3-5e55-4af9-af9b-742433d78002)
-
--->
-	
-## Verwerken van testresultaten
-Vat jouw testplan kort samen en verwerk de testresultaten in een issue genaamd 'User test'. Noteer wat tijdens de user tests goed ging en wat niet. Vaak komen de meest waardevolle inzichten uit onverwachte fouten, de zogenaamde headslappers. Dat zijn de momenten waarop je denkt: "Hoe heb ik dit kunnen missen?"
-
-
-## Testen bij een volgende project
-Misschien heb je gemerkt dat de uitkomsten van de testresultaten ervoor kunnen zorgen dat je jouw structuur van de website weer opnieuw moet gaan bouwen. Dat kan best frustrerend zijn. Als je in een vroeg stadium test, kun je kleine aanpassingen doen voordat het ontwerp te ver gevorderd is. Dit voorkomt dat je grote delen van je werk opnieuw moet opzetten. Hoe eerder je test, hoe beter! Zoals usability-expert Steve Krug zegt:
+## Testen bij een volgend project  
+Het kan gebeuren dat de testresultaten je dwingen om de structuur van je website opnieuw te ontwerpen. Dit kan frustrerend zijn, maar door in een vroeg stadium te testen voorkom je dat je grote aanpassingen moet doen wanneer je al verder gevorderd bent. Hoe eerder je test, hoe beter! Zoals usability-expert Steve Krug zegt:  
 
 > "Start earlier than you think makes sense."
-
-
