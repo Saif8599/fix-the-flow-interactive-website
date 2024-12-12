@@ -1,7 +1,7 @@
 # Fix the Flow - Interactive Website  
 
 ## Code/Design User Testing  
-Voor deze Code/Design-review ga je de interactie van jouw ontwerp testen met drie gebruikers. Tijdens deze review leer je hoe je een gebruikerstest opzet en ontdek je waarom dit zo waardevol (en leuk!) is.  
+Voor deze Code/Design-review ga je de interactie(s) van jouw website testen met drie gebruikers. Tijdens deze review leer je hoe je een gebruikerstest opzet en ontdek je waarom dit zo waardevol (en leuk!) is.  
 
 ## User Testing  
 Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets bouwen dat werkt, maar vooral over iets maken dat intuïtief en prettig te gebruiken is. Misschien denk je dat jouw micro-interactie perfect is – alles functioneert precies zoals jij het had bedacht – maar hoe ervaart een gebruiker jouw werk? Om dat te ontdekken, gebruik je user testing. Het doel is om te achterhalen hoe een echte gebruiker – iemand die jouw code niet kent – jouw werk ervaart.  
@@ -32,10 +32,12 @@ Om te beginnen bedenk je wat je precies wilt testen. Maak een lijst met taken en
    > **Scenario:** Je hebt een niveau 4-diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Schrijf je in voor toelating tot een studie.  
 
 ## Proef-test de scenario’s  
-Test je scenario’s op een echte persoon om te bepalen of gebruikers voldoende context hebben om de taken uit te voeren. Pas onduidelijkheden aan en herhaal de proef-test totdat het scenario helder is. Dit kun je testen met een medestudent of jouw mentor.  
+Test je scenario’s op een echt persoon om te bepalen of gebruikers voldoende context hebben om de taken uit te voeren. Pas onduidelijkheden aan en herhaal de proef-test totdat het scenario helder is. Voer de proef-test uit met een medestudent.  
 
 ## Testen, testen, testen  
-Nu je weet wat je wilt testen, voer je de tests uit met minimaal drie gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Let tijdens het testen op de volgende punten:  
+Nu je weet wat je wilt testen, voer je de tests uit met minimaal drie gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Een gebruikerstest is het meest waardevol wanneer je test met iemand die weinig tot niets weet over jouw project en die je niet goed kent. Als je met een medestudent test, kies dan bij voorkeur iemand die niet aan hetzelfde project werkt en met wie je niet vaak samenwerkt.
+
+Let tijdens het testen op de volgende punten:  
 - **Moedig gebruikers aan om hardop te denken:** Laat ze hun gedachten uitspreken terwijl ze de taak uitvoeren.  
 - **Blijf neutraal:** Beïnvloed gebruikers niet.  
 - **Observeer zonder in te grijpen:** Het is verleidelijk om uitleg te geven als je ziet dat iemand vastloopt, maar juist door te observeren ontdek je waar je ontwerp tekortschiet.  
