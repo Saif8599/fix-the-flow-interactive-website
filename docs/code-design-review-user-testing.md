@@ -22,7 +22,7 @@ Tijdens een user test observeer je hoe iemand jouw werk gebruikt, zonder in te g
 ## Aanpak
 Voordat je kan testen maak je een testplan. Een testplan helpt je bij het helder hebben wat je met een gebruiker wil gaan testen. 
 
-### Testplan 
+### Testplan: 5 stappen
 
 1. Maak een lijst met taken die je wil testen: Maak een lijst met belangrijke dingen die gebruikers op jouw website moeten kunnen uitvoeren. Dit kan bijvoorbeeld zo er uit zien:
 
@@ -34,53 +34,39 @@ Voordat je kan testen maak je een testplan. Een testplan helpt je bij het helder
 
 2. Verander de taken in scenario’s: Breid de taken uit naar scenario’s waarbij je de simpele beschrijving vertaalt naar een script dat de gebruiker kan lezen, begrijpen en volgen. Deze kleine scripts geven je details over de context die gebruikers moeten kennen om de taken uit te kunnen voeren. Bijvoorbeeld:
 
-``` 
-Taak: Aanmelden voor een Associate degree bij de HvA.
-
-Scenario: Je hebt een niveau 4 diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Schrijf je in voor toelating tot een studie.
-
-```
-
-3. Proef-test de scenario’s
-4. Test met gebruikers
-5. Verwerk de testresultaten in issues
-
-
-
-
-
-### Hoe doe je User Testing?
-Kies een duidelijke taak
-Geef de gebruiker een simpele opdracht, bijvoorbeeld: "Klik op de knop om X te doen." Zorg dat de opdracht iets weerspiegelt wat een echte gebruiker in jouw micro-interactie zou willen doen.
-
-Observeer zonder in te grijpen
-Dit is moeilijker dan het klinkt. Als je ziet dat een gebruiker iets fout doet, wil je het meteen uitleggen. Maar juist door te kijken waarom ze vastlopen, ontdek je waar het ontwerp niet duidelijk genoeg is.
-
-Vraag door, maar stuur niet
-Vraag na afloop wat de gebruiker dacht of voelde:
-
-"Wat dacht je dat deze knop deed?"
-"Waarom koos je ervoor om X te doen?"
-Laat ze zelf antwoorden zonder hints te geven. Zo krijg je een eerlijk beeld van hun ervaring.
-
-Documenteer alles
-Noteer wat goed ging en wat niet. Vaak komen de meest waardevolle inzichten uit onverwachte fouten, de zogenaamde headslappers. Dat zijn de momenten waarop je denkt: "Hoe heb ik dit kunnen missen?"
+>Taak: Aanmelden voor een Associate degree bij de HvA.
+>
+>Scenario: Je hebt een niveau 4 diploma en na veel onderzoek heb je besloten een Associate degree bij de >HvA te gaan volgen. Schrijf je in voor toelating tot een studie.
 
 
 ### Proef-test de scenario’s
+
+Proef-test jouw scenario’s door op een écht persoon om te bepalen of je gebruikers genoeg context hebben om de taak uit te voeren. Pas bij onduidelijkheden je scenario’s aan en proef-test weer, net zo lang tot je een duidelijk scenario hebt. Dit kun je testen met een medestudent of jouw mentor. 
+
+
+### Testen, testen testen
+
+Nu je hebt bedacht wat je wil gaan testen, kun je aan de slag met het uitvoeren van een test. Je voert deze test uit bij minimaal 3 gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Een paar tips voor tijdens het testen:
+- Moedig gebruikers aan om hardop te denken. Dat is lastig want ze moeten alles wat ze denken noemen.
+- Blijf neutraal en beïnvloed gebruikers niet! 
+- Observeer zonder in te grijpen: Dit is moeilijker dan het klinkt. Als je ziet dat een gebruiker iets fout doet, wil je het meteen uitleggen. Maar juist door te kijken waarom ze vastlopen, ontdek je waar het ontwerp niet duidelijk genoeg is.Je mag niet helpen, knikken, lachen, complimenteren … alleen saai noteren.
+- Beantwoord geen vragen maar stel vragen terug. "Gebruiker: Moet ik op deze knop klikken? Jij: Wil je op deze knop klikken? Waarom?" Probeer open vragen te stellen zoals: "Wat denk je dat deze knop doet?"
+"Waarom kies je ervoor om X te doen?"
+
+<!-- 
+![image](https://github.com/user-attachments/assets/3decb608-a7be-4aea-ac98-66854673314a)
+![image](https://github.com/user-attachments/assets/30a136b7-2c46-468f-a4a2-5ee184ac257f)
+![image](https://github.com/user-attachments/assets/115a1de3-5e55-4af9-af9b-742433d78002)
+
+-->
 	
-### Testen met een tweedejaars
+### Verwerken van testresultaten
+Vat jouw testplan kort samen en verwerk vervolgens de testresultaten. Noteer wat goed ging en wat niet. Vaak komen de meest waardevolle inzichten uit onverwachte fouten, de zogenaamde headslappers. Dat zijn de momenten waarop je denkt: "Hoe heb ik dit kunnen missen?"
 
 
-
-
-
-
-
-
-### Voortschrijdend inzicht
-Hoe eerder je test, hoe minder tijd je verspilt. Zoals usability-expert Steve Krug zegt:
+### Testen bij een volgende project
+Misschien heb je nu wel gemerkt dat de uitkomst van de testresultaten ervoor kunnen zorgen dat je jouw structuur van de website weer opnieuw moet gaan opbouwen. Dat kan best frustrerend zijn. Als je in een vroeg stadium test, kun je kleine aanpassingen doen voordat het ontwerp te ver gevorderd is. Dit voorkomt dat je grote delen van je werk opnieuw moet opzetten. Hoe eerder je test, hoe beter! Zoals usability-expert Steve Krug zegt:
 
 > "Start earlier than you think makes sense."
 
-Als je in een vroeg stadium test, kun je kleine aanpassingen doen voordat het ontwerp te ver gevorderd is. Dit voorkomt dat je grote delen van je werk opnieuw moet opzetten.
+
