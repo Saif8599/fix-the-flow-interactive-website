@@ -4,7 +4,7 @@
 
 Voor de Code/Design review ga je jouw interactie testen met een gebruiker. Je leert in deze code- en design review hoe je een user test opzet en waarom het zo nuttig (en leuk) is. 
 
-## User Testing: Waarom, Wat en Hoe?
+## User Testing
 Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over het bouwen van iets dat werkt, maar vooral over iets dat intuïtief en prettig te gebruiken is. Je kunt misschien denken dat jouw micro-interactie perfect is – alles doet precies wat jij voor ogen had – maar hoe ervaart een gebruiker jouw werk? Om daarachter te komen, gebruik je user testing.
 
 > "There are known knowns; things we know we know. There are known unknowns; things we know we do not know. But there are also unknown unknowns; the ones we don't know we don't know. - Donals Rumsfeld"
@@ -20,23 +20,23 @@ User testing is een manier om je prototype te testen met echte gebruikers. Het d
 Tijdens een user test observeer je hoe iemand jouw werk gebruikt, zonder in te grijpen. Het is cruciaal om niet in de valkuil te trappen om uit te leggen wat er moet gebeuren. Laat de gebruiker worstelen als dat nodig is – dát zijn de momenten waarop je leert!
 
 ## Aanpak
-Voordat je kan testen maak je een testplan. Een testplan helpt je bij het helder hebben wat je met een gebruiker wil gaan testen. 
+Voordat je kan testen maak je een testplan. Een testplan helpt je bij het helder hebben wat je met een gebruiker wil gaan testen. Vervolgens ga je dit testplan eerst proef-testen voordat je het met 3 gebruikers gaat testen. Uiteindelijk documenteer je jouw testplan en de bijbehorende resultaten in een issue.
 
-### Testplan: 5 stappen
+## Een testplan opzetten
 
-1. Maak een lijst met taken die je wil testen: Maak een lijst met belangrijke dingen die gebruikers op jouw website moeten kunnen uitvoeren. Dit kan bijvoorbeeld zo er uit zien:
+### Opdracht
+Maak een lijst met taken die je wil testen: Maak een lijst met belangrijke dingen die gebruikers op jouw website moeten kunnen uitvoeren. Dit kan bijvoorbeeld zo er uit zien:
 
-
-> User Stories:
-> - Vind informatie over workshops
-> - Aanmelden voor workshops
-> - Een proefhoofdstuk van een boek lezen
+User Stories:
+- Vind informatie over workshops
+- Aanmelden voor workshops
+- Een proefhoofdstuk van een boek lezen
 
 2. Verander de taken in scenario’s: Breid de taken uit naar scenario’s waarbij je de simpele beschrijving vertaalt naar een script dat de gebruiker kan lezen, begrijpen en volgen. Deze kleine scripts geven je details over de context die gebruikers moeten kennen om de taken uit te kunnen voeren. Bijvoorbeeld:
 
->Taak: Aanmelden voor een Associate degree bij de HvA.
->
->Scenario: Je hebt een niveau 4 diploma en na veel onderzoek heb je besloten een Associate degree bij de >HvA te gaan volgen. Schrijf je in voor toelating tot een studie.
+Taak: Aanmelden voor een Associate degree bij de HvA.
+
+Scenario: Je hebt een niveau 4 diploma en na veel onderzoek heb je besloten een Associate degree bij de HvA te gaan volgen. Schrijf je in voor toelating tot een studie.
 
 
 ### Proef-test de scenario’s
