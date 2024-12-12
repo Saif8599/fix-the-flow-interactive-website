@@ -6,16 +6,16 @@ Voor deze Code/Design-review ga je de interactie(s) van jouw website testen met 
 ## User Testing  
 Het ontwerpen van een goede gebruikerservaring (UX) gaat niet alleen over iets bouwen dat werkt, maar vooral over iets maken dat intuïtief en prettig te gebruiken is. Misschien denk je dat jouw micro-interactie perfect is – alles functioneert precies zoals jij het had bedacht – maar hoe ervaart een gebruiker jouw werk? Om dat te ontdekken, gebruik je user testing. Het doel is om te achterhalen hoe een echte gebruiker – iemand die jouw code niet kent – jouw werk ervaart.  
 
-Vaak hoor je van vrienden of klasgenoten alleen wat er goed is. Dat is fijn, maar daar leer je niet veel van. De meest waardevolle inzichten komen juist voort uit kritiek en fouten. Het kan pijnlijk zijn om te zien dat een gebruiker vastloopt, maar dit biedt kansen om je werk te verbeteren. User testing is een methode om je prototype te testen met echte gebruikers. Het doel is niet om aan te tonen dat je ontwerp perfect is, maar om te begrijpen hoe gebruikers ermee omgaan:  
+Vaak hoor je van vrienden of klasgenoten alleen wat er goed is. Dat is fijn, maar daar leer je niet veel van. De meest waardevolle inzichten komen juist voort uit opbouwende feedback. Het kan pijnlijk zijn om te zien dat een gebruiker vastloopt, maar dit biedt kansen om je werk te verbeteren. User testing is een methode om je prototype te testen met echte gebruikers. Het doel is niet om aan te tonen dat je ontwerp perfect is, maar om te begrijpen hoe gebruikers ermee omgaan:  
 
 - Begrijpen ze meteen wat ze moeten doen?  
 - Kunnen ze de interactie uitvoeren zonder uitleg?  
 - Lopen ze ergens vast of raken ze gefrustreerd?  
 
-Tijdens een gebruikerstest observeer je hoe iemand jouw werk gebruikt, zonder in te grijpen. Het is belangrijk om niet in de valkuil te trappen waarin je uitlegt wat er moet gebeuren. Laat de gebruiker worstelen als dat nodig is – dát zijn de momenten waarop je leert!  
+Tijdens een gebruikerstest observeer je hoe iemand jouw website gebruikt, zonder in te grijpen. Het is belangrijk om niet in de valkuil te trappen waarin je uitlegt wat er moet gebeuren. Laat de gebruiker worstelen als dat nodig is – dát zijn de momenten waarop je leert!  
 
 ## Aanpak  
-Voordat je gaat testen, stel je een testplan op. Een testplan helpt je om helder te krijgen wat je precies wilt testen. Vervolgens proef-test je dit plan voordat je het uitvoert met drie gebruikers. Tot slot documenteer je je testplan en de bijbehorende resultaten in een issue.  
+Voordat je gaat testen, stel je een testplan op. Een testplan helpt je om helder te krijgen wat je precies wilt gaan testen. Vervolgens proef-test je dit plan voordat je het uitvoert met drie gebruikers. Tot slot documenteer je je testplan en de bijbehorende resultaten in een issue.  
 
 ## Een testplan opzetten  
 Om te beginnen bedenk je wat je precies wilt testen. Maak een lijst met taken en werk deze uit tot scenario’s.  
