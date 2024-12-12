@@ -300,6 +300,7 @@ nav ul li {
 
 .page-description {
   font-size: 1rem;
+  font-weight: 600;
   color: black;
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
@@ -332,6 +333,7 @@ nav ul li {
 
 .webinar-item.active {
   display: block;
+  max-width: 600px;
 }
 
 .webinar-item img {
@@ -402,8 +404,8 @@ footer {
   }
 }
 
-footer > a:first-of-type {
-  /* Target alleen de eerste a child van footer */
+footer > a:nth-child(1) {
+  /* Target alleen de eerste a child van footer voor de active look */
   @media (min-width: 600px) {
     font-weight: 400;
     color: #ffffff;
