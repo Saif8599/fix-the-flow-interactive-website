@@ -48,7 +48,7 @@ Let tijdens het testen op de volgende punten:
 
 
 ## Verwerken van testresultaten  
-Vat je testplan samen en verwerk de resultaten in een issue genaamd *User Test*. Noteer wat goed ging en wat niet. Vaak komen de meest waardevolle inzichten uit onverwachte verbeterpunten. Dit zijn momenten waarop je denkt: *Hoe heb ik dit kunnen missen?*  
+Vat je testplan samen en verwerk de resultaten in de eerder aangemaakte issue genaamd *User Story*. Noteer wat goed ging en wat nog verbeterd kan worden. Vaak komen de meest waardevolle inzichten uit onverwachte verbeterpunten. Dit zijn momenten waarop je denkt: *Hoe heb ik dit kunnen missen?*  
 
 ## Testen bij een volgend project  
 Het kan gebeuren dat de testresultaten je dwingen om de structuur van je website opnieuw te ontwerpen. Dit kan frustrerend zijn, maar door in een vroeg stadium te testen voorkom je dat je grote aanpassingen moet doen wanneer je al verder gevorderd bent. Hoe eerder je test, hoe beter! Zoals usability-expert Steve Krug zegt:  
