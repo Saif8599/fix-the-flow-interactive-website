@@ -27,7 +27,7 @@ Met een testplan zorg je ervoor dat je precies weet wat je wil testen. Een goed 
 
 Een testplan bestaat uit een lijst taken en user stories die je wil testen. Voor elke taak en user story schrijf je een scenario. Het scenario moet je eerst proef-testen om te checken of het klopt en duidelijk is. Daarna kan je de echte test doen ...
 
-#### Van user story naar en scenario's
+#### Van user story naar scenario's
 Schrijf voor je gekozen user story een scenario. Dit scenario biedt context en details over de situatie waarin de gebruiker zich bevindt. Bijvoorbeeld:  
 
    > **User story:** Als toekomstige student wil ik mij aanmelden voor de opleiding FDND, zodat ik komend schooljaar van start kan bij deze Associate degree op de HvA.  
