@@ -56,7 +56,7 @@ Vertel de gebruiker eerst het scenario en vraag of het duidelijk is. Nu kan de t
 ### Verwerken van testresultaten  
 Vat je testplan samen en verwerk de resultaten in de eerder aangemaakte issue genaamd *User Story*. Noteer wat goed ging en wat nog verbeterd kan worden. Vaak komen de meest waardevolle inzichten uit onverwachte verbeterpunten. Dit zijn momenten waarop je denkt: *Hoe heb ik dit kunnen missen?* 
 
-Verwerk je bevindingen in code en test meteen nog een keer. Is het gelukt om de verbeterpunten te verholpen?
+Verwerk je bevindingen in code en test meteen nog een keer. Is het gelukt om de interactie te verbeteren?
 
 ## Testen bij een volgend project  
 Het kan gebeuren dat de testresultaten je dwingen om de structuur van je website opnieuw te ontwerpen. Dit kan frustrerend zijn, maar door in een vroeg stadium te testen voorkom je dat je grote aanpassingen moet doen wanneer je al verder gevorderd bent. Hoe eerder je test, hoe beter! Zoals usability-expert Steve Krug zegt:  
