@@ -25,9 +25,9 @@ Daarna ga je jouw interactie 3 keer testen met verschillende gebruikers. Na de t
 ### Een testplan opzetten
 Met een testplan zorg je ervoor dat je precies weet wat je wil testen. Een goed testplan zorgt er ook voor dat je een test meerdere keren op dezelfde manier kan uitvoeren zodat je de resultaten met elkaar kan vergelijken. (Belangrijk als je een kwalitatief- of kwantitatiefonderzoek doet.)
 
-Een testplan bestaat uit een lijst taken of user stories die je wil testen. Voor elke taak schrijf je een scenario. Het scenario moet je eerst proef-testen om te checken of het klopt en duidelijk is. Daarna kan je de echte test doen ...
+Een testplan bestaat uit een lijst taken en user stories die je wil testen. Voor elke taak en user story schrijf je een scenario. Het scenario moet je eerst proef-testen om te checken of het klopt en duidelijk is. Daarna kan je de echte test doen ...
 
-#### Taken en scenario's
+#### Van user story naar en scenario's
 Schrijf voor je gekozen user story een scenario. Dit scenario biedt context en details over de situatie waarin de gebruiker zich bevindt. Bijvoorbeeld:  
 
    > **User story:** Als toekomstige student wil ik mij aanmelden voor de opleiding FDND, zodat ik komend schooljaar van start kan bij deze Associate degree op de HvA.  
