@@ -25,9 +25,9 @@ Daarna ga je jouw interactie 3 keer testen met verschillende gebruikers. Na de t
 ### Een testplan opzetten
 Met een testplan zorg je ervoor dat je precies weet wat je wil testen. Een goed testplan zorgt er ook voor dat je een test meerdere keren op dezelfde manier kan uitvoeren zodat je de resultaten met elkaar kan vergelijken. (Belangrijk als je een kwalitatief- of kwantitatiefonderzoek doet.)
 
-Een testplan bestaat uit een lijst taken of user stories die je wil testen. Voor elke taak schrijf je een scenario. Het scenario moet je eerst proef-testen om te checken of het klopt en duidelijk is. Daarna kan je de echte test doen ...
+Een testplan bestaat uit een lijst taken en user stories die je wil testen. Voor elke taak en user story schrijf je een scenario. Het scenario moet je eerst proef-testen om te checken of het klopt en duidelijk is. Daarna kan je de echte test doen ...
 
-#### Taken en scenario's
+#### Van user story naar scenario's
 Schrijf voor je gekozen user story een scenario. Dit scenario biedt context en details over de situatie waarin de gebruiker zich bevindt. Bijvoorbeeld:  
 
    > **User story:** Als toekomstige student wil ik mij aanmelden voor de opleiding FDND, zodat ik komend schooljaar van start kan bij deze Associate degree op de HvA.  
@@ -40,8 +40,8 @@ Test je scenario’s op een echt persoon om te bepalen of gebruikers voldoende c
 ### Testen, testen, testen  
 Nu je weet wat je wilt testen, voer je de tests uit met minimaal drie gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Een gebruikerstest is het meest waardevol wanneer je test met iemand die weinig tot niets weet over jouw project en die je niet goed kent. Als je met een medestudent test, kies dan bij voorkeur iemand die niet aan hetzelfde project werkt en met wie je niet vaak samenwerkt.
 
-Vertel de gebruiker het scenario en vraag of het duidelijk is. Nu kan de test beginnen. Let tijdens het testen op de volgende punten:  
-- **Moedig gebruikers aan om hardop te denken:** Laat ze hun gedachten uitspreken terwijl ze de taak uitvoeren.  
+Vertel de gebruiker eerst het scenario en vraag of het duidelijk is. Nu kan de test beginnen. Let tijdens het testen op de volgende punten:  
+- **Moedig gebruikers aan om hardop te denken:** Laat ze hun gedachten uitspreken terwijl ze de taak uitvoeren. 
 ![Thinking alout](usertest-thinking-alout.png)
 - **Blijf neutraal:** Beïnvloed gebruikers niet.  
 ![Stay neutral](usertest-stay-neutral.png)
@@ -56,7 +56,7 @@ Vertel de gebruiker het scenario en vraag of het duidelijk is. Nu kan de test be
 ### Verwerken van testresultaten  
 Vat je testplan samen en verwerk de resultaten in de eerder aangemaakte issue genaamd *User Story*. Noteer wat goed ging en wat nog verbeterd kan worden. Vaak komen de meest waardevolle inzichten uit onverwachte verbeterpunten. Dit zijn momenten waarop je denkt: *Hoe heb ik dit kunnen missen?* 
 
-Verwerk je bevindingen in code en test meteen nog een keer om te kijken of je de verbterpunten hebt verholpen. 
+Verwerk je bevindingen in code en test meteen nog een keer. Is het gelukt om de interactie te verbeteren?
 
 ## Testen bij een volgend project  
 Het kan gebeuren dat de testresultaten je dwingen om de structuur van je website opnieuw te ontwerpen. Dit kan frustrerend zijn, maar door in een vroeg stadium te testen voorkom je dat je grote aanpassingen moet doen wanneer je al verder gevorderd bent. Hoe eerder je test, hoe beter! Zoals usability-expert Steve Krug zegt:  
@@ -65,4 +65,4 @@ Het kan gebeuren dat de testresultaten je dwingen om de structuur van je website
 
 ### Bronnen
 - [Rocket Surgery Made Easy - Steve Krug](https://sensible.com/rocket-surgery-made-easy/)
-- [10 Usability Lessons from Steve Krug’s Don’t Make Me Think](https://uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/)
+<!-- - [10 Usability Lessons from Steve Krug’s Don’t Make Me Think](https://uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) -->
