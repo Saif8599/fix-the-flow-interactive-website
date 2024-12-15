@@ -21,29 +21,27 @@ Wat is er, waar ben ik en waar kan ik naartoe? In het boek *Designing Web Naviga
 > - Joshua Porter, Principles of User Interface Design
 -->
 
-
-
 ## Aanpak
 
-Eerst ga je leren wat straatnaambordjes en wegbewijzering in web design is, en waar je op moet letten als je iconen en labels gebruikt. 
+Eerst ga je leren wat straatnaambordjes en bewegwijzering in web design zijn, en waar je op moet letten als je iconen en labels gebruikt. 
 
 Daarna ga je in groepjes de interactie die je aan het ontwerpen en bouwen bent bespreken.
 
-### Straatnaambordjes en wegbewijzering.
+### Straatnaambordjes en bewegwijzering.
 
-Goede navigatie maakt gebruik van feedback en feedforward, dat zijn de straatnaambordjes en wegbewijzering van een website.
+Goede navigatie maakt gebruik van feedback en feedforward, dat zijn de straatnaambordjes en bewegwijzering van een website.
 Feedback is dat een gebuiker weet 'waar' die is. Feedforward laat zien waar de gebruiker "naartoe" kan.
 
-![Straatnaambordjes en wegbewijzering op ziggo.nl](ziggo-straatnaambordjes-en-wegbewijzering.png)
-*Straatnaambordjes op Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item, wegbewijzering zijn bijvoorbeeld de menu-items.*
+![Straatnaambordjes en bewegwijzering op ziggo.nl](ziggo-straatnaambordjes-en-bewegwijzering.png)
+*Straatnaambordjes op Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item, bewegwijzering zijn bijvoorbeeld de menu-items.*
 
 ### Iconen en labels
 
 Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te gebruiken. Zoals de input elementen in een formulier hebben alle interactieve elementen duidelijke labels nodig.
 
-![](hamburger-menu-types-examples.jpeg) *Verschillende menu icons voor hetzelfde element.*
+![](hamburger-menu-types-examples.jpeg) *Verschillende menu icons voor dezelfde interactie.*
 
-Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden. Hierom is het aan te raden om bij een icon altijd een label te plaatsen om duidelijk te maken wat het betekent. 
+Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden, of verschillende iconen voor dezelfde interactie. Om misverstanden te voorkomen is het aan te raden om bij een icon altijd een label te plaatsen om duidelijk te maken wat het betekent en wat een gebruiker kan verwachten.
 
 #### Hoe ontwerp je goede labels?
 
@@ -85,7 +83,7 @@ Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en
 
 Schets gezamenlijk hoe je de interactie kan verbeteren door feedback en feedforward toe te passen:
 
-- Let op het gebruik van straatnaambordjes en wegbewijzering, noteer deze in de tekening. 
+- Let op het gebruik van straatnaambordjes en bewegwijzering, noteer deze in de tekening. 
 - Let op het gebruik van labels en iconen en pas toe hoe je goede labels ontwerpt.
 - Schets ook de hover-, active- en focus-states van de interactieve elementen.
 - Voeg de tekening met uitleg toe aan het issue.
