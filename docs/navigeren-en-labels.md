@@ -2,14 +2,98 @@
 
 ## Navigeren en labels
 
-Navigatie is de manier waarop de gebruiker door een website kan surfen en zoeken.
-Je gaat leren hoe je de navigatie van een website ontwerpt.
+Navigatie is de manier waarop de gebruiker door een website kan surfen en zoeken. 
+Wat is er, waar ben ik en waar kan ik naartoe? In het boek *Designing Web Navigation* schrijft James Kalbach:
 
+- Navigatie geeft toegang tot de informatie op een website
+
+- Navigatie toont waar je bent op een website
+
+- Navigatie toont waar de website over gaat
+
+- Navigatie laat het merk zien
+
+- Navigatie zorgt voor geloofwaardigheid
+
+<!--
+> Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn 
+>
+> - Joshua Porter, Principles of User Interface Design
+-->
+
+### Aanpak
+
+Eerst ga je leren wat straatnaambordjes en bewegwijzering in web design zijn, en waar je op moet letten als je iconen en labels gebruikt. 
+
+Daarna ga je in groepjes de interactie die je aan het ontwerpen en bouwen bent bespreken.
+
+## Straatnaambordjes en bewegwijzering.
+
+Goede navigatie maakt gebruik van feedback en feedforward, dat zijn de straatnaambordjes en bewegwijzering van een website.
+_Feedback_ is dat een gebuiker weet _“waar”_ die is. _Feedforward_ laat zien waar de gebruiker _“naartoe”_ kan.
+
+![Straatnaambordjes en bewegwijzering op ziggo.nl](ziggo-straatnaambordjes-en-bewegwijzering.png)
+*Straatnaambordjes op Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item, bewegwijzering zijn bijvoorbeeld de menu-items.*
+
+## Iconen en labels
+
+Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te gebruiken. Zoals de input elementen in een formulier hebben alle interactieve elementen duidelijke labels nodig.
+
+![](hamburger-menu-types-examples.jpeg) *Verschillende menu icons voor dezelfde interactie.*
+
+Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden, of verschillende iconen voor dezelfde interactie. Om misverstanden te voorkomen, is het aan te raden om bij een icon _altijd_ een label te plaatsen. Om duidelijk te maken wat het betekent en wat een gebruiker kan verwachten.
+
+### Hoe ontwerp je goede labels?
+
+**Begrijpbare terminologie** ‘gebruikersnaam’ i.p.v. ‘userid’. Gebruik geen jargon, dat is voor experts en je weet niet of jouw gebruiker dat is.
+
+**Gebruik precieze en nauwkeurige woorden** Precieze woorden is dus niet ‘voer  gegevens in’, maar benoem welke gegevens moeten worden ingevuld, wees concreet. Gebruik alleen afkortingen als de gebruiker ze kent, mensen schamen zich wanneer ze de afkortingen niet kennen.
+
+**‘Do...with’** Mensen zijn taakgericht, dus “Print deze brief”, “Koop festival tickets”. Als Do…with teveel ruimte in beslag neemt, doe dan alleen een werkwoord. Wanneer je buttons labeled, dan zegt vijf keer een OK op een pagina niets, wel Print, Zoek, Bestel, Opslaan, Aanmelden.
+
+**Labels niet laten overlappen** Labels mogen niet overlappen (qua betekenis), want dan moet een gebruiker beide uitproberen om er achter te komen wat het betekent. Bv. de links Agenda en Activiteiten of Agenda en Kalender naast elkaar.
+
+### Bronnen
+
+- [Icon Usablity](https://www.nngroup.com/articles/icon-usability/)
+- [Yes, Icons Need Text Labels](https://www.nngroup.com/videos/icon-text-labels)
+
+<!--
+#### Design patterns en mental models
+
+Design patterns: hamburger, carousel, progressive disclosure.
+
+Hide and cry.
+
+Alternatieven ontwerpen, schetsen op Whiteboard
+
+Wat zit er in? Mental model?
+https://lawsofux.com/mental-model/
+https://www.nngroup.com/articles/mental-models/
+
+-->
+
+### Opdracht User test bespreken
+
+Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en 3 studenten. Bespreek de interacties en testen om en om, laat zien wat je hebt getest, wat goed ging en wat nog verbeterd kan worden. Heb je nog geen user test gedaan, doe dan eerst alsnog de [workshop van vrijdag](code-design-review-user-testing.md).
+
+<!--
+*Heb je de test en de testresultaten goed beschreven in het issue?*
+-->
+
+Schets gezamenlijk hoe je de interactie kan verbeteren door feedback en feedforward toe te passen:
+
+- Let op het gebruik van straatnaambordjes en bewegwijzering, noteer deze in de tekening. 
+- Let op het gebruik van labels en iconen en pas toe hoe je goede labels ontwerpt.
+- Schets ook de hover-, active- en focus-states van de interactieve elementen.
+- Voeg de tekening met uitleg toe aan het issue.
+
+
+<!-- 
 
 ### Structural navigation
 
-<!-- Voor deze opdracht ga je de _Structural navigation_ van jouw opdracht schetsen. -->
-
+Voor deze opdracht ga je de _Structural navigation_ van jouw opdracht schetsen.
 
 Navigatie is de manier waarop de gebruiker door een website kan surfen en zoeken. Wat is er, waar ben ik en waar kan ik naartoe?
 Er zijn drie verschillende soorten navigatie: _Structural navigation_, _Associative navigation_ en _Utility navigation_.
@@ -38,14 +122,11 @@ Schets op basis van de top-level pagina's een menu voor de _Structural navigatio
 3. Schets het menu voor de _Structural navigation_
 4. Bepaal de active state, de in-active states en de hover state van de menu elementen zodat de gebruiker weet waar die is en waar die heen kan 
 
-
 #### Bronnen
 
 - [Designing Web navigation - Chapter 4. Types of Navigation](https://www.oreilly.com/library/view/designing-web-navigation/9780596528102/ch04.html)
 - [Presenting Information Architecture - Site diagrams](https://www.webstyleguide.com/wsg3/3-information-architecture/4-presenting-information.html)
 
-
-<!--
 ## Criteria
 
 De Structural Navigation opdracht is *done* als
