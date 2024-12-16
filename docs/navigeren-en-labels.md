@@ -9,7 +9,7 @@ Wat is er, waar ben ik en waar kan ik naartoe? In het boek *Designing Web Naviga
 
 - Navigatie toont waar je bent op een website
 
-- Navigatie toon waar de website over gaat
+- Navigatie toont waar de website over gaat
 
 - Navigatie laat het merk zien
 
@@ -30,7 +30,7 @@ Daarna ga je in groepjes de interactie die je aan het ontwerpen en bouwen bent b
 ## Straatnaambordjes en bewegwijzering.
 
 Goede navigatie maakt gebruik van feedback en feedforward, dat zijn de straatnaambordjes en bewegwijzering van een website.
-Feedback is dat een gebuiker weet 'waar' die is. Feedforward laat zien waar de gebruiker "naartoe" kan.
+_Feedback_ is dat een gebuiker weet _“waar”_ die is. _Feedforward_ laat zien waar de gebruiker _“naartoe”_ kan.
 
 ![Straatnaambordjes en bewegwijzering op ziggo.nl](ziggo-straatnaambordjes-en-bewegwijzering.png)
 *Straatnaambordjes op Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item, bewegwijzering zijn bijvoorbeeld de menu-items.*
@@ -47,7 +47,7 @@ Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen l
 
 **Begrijpbare terminologie** ‘gebruikersnaam’ i.p.v. ‘userid’. Gebruik geen jargon, dat is voor experts en je weet niet of jouw gebruiker dat is.
 
-**Gebruik precieze en nauwkeurige woorden** Precieze woorden is dus niet ‘voer  gegevens in’, maar benoem welke gegevens moeten worden ingevuld, waas concreet. Gebruik alleen afkortingen als de gebruiker ze kent, mensen schamen zich wanneer ze de afkortingen niet kennen.
+**Gebruik precieze en nauwkeurige woorden** Precieze woorden is dus niet ‘voer  gegevens in’, maar benoem welke gegevens moeten worden ingevuld, wees concreet. Gebruik alleen afkortingen als de gebruiker ze kent, mensen schamen zich wanneer ze de afkortingen niet kennen.
 
 **‘Do...with’** Mensen zijn taakgericht, dus ‘Print deze brief”, “Koop festival tickets”. Als Do…with teveel ruimte in beslag neemt, doe dan alleen een werkwoord. Wanneer je buttons labeled dan zegt vijf keer een OK op een pagina niets, wel Print, Zoek, Bestel, Opslaan, Aanmelden.
 
