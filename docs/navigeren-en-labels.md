@@ -21,13 +21,13 @@ Wat is er, waar ben ik en waar kan ik naartoe? In het boek *Designing Web Naviga
 > - Joshua Porter, Principles of User Interface Design
 -->
 
-## Aanpak
+### Aanpak
 
 Eerst ga je leren wat straatnaambordjes en bewegwijzering in web design zijn, en waar je op moet letten als je iconen en labels gebruikt. 
 
 Daarna ga je in groepjes de interactie die je aan het ontwerpen en bouwen bent bespreken.
 
-### Straatnaambordjes en bewegwijzering.
+## Straatnaambordjes en bewegwijzering.
 
 Goede navigatie maakt gebruik van feedback en feedforward, dat zijn de straatnaambordjes en bewegwijzering van een website.
 Feedback is dat een gebuiker weet 'waar' die is. Feedforward laat zien waar de gebruiker "naartoe" kan.
@@ -35,7 +35,7 @@ Feedback is dat een gebuiker weet 'waar' die is. Feedforward laat zien waar de g
 ![Straatnaambordjes en bewegwijzering op ziggo.nl](ziggo-straatnaambordjes-en-bewegwijzering.png)
 *Straatnaambordjes op Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item, bewegwijzering zijn bijvoorbeeld de menu-items.*
 
-### Iconen en labels
+## Iconen en labels
 
 Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te gebruiken. Zoals de input elementen in een formulier hebben alle interactieve elementen duidelijke labels nodig.
 
@@ -43,7 +43,7 @@ Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te
 
 Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden, of verschillende iconen voor dezelfde interactie. Om misverstanden te voorkomen is het aan te raden om bij een icon altijd een label te plaatsen om duidelijk te maken wat het betekent en wat een gebruiker kan verwachten.
 
-#### Hoe ontwerp je goede labels?
+### Hoe ontwerp je goede labels?
 
 **Begrijpbare terminologie** ‘gebruikersnaam’ i.p.v. ‘userid’. Gebruik geen jargon, dat is voor experts en je weet niet of jouw gebruiker dat is.
 
@@ -53,7 +53,7 @@ Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen l
 
 **Labels niet laten overlappen** Labels mogen niet overlappen want dan moet een gebruiker beide uitproberen om er achter te komen wat het betekent. Bv. Agenda en Activiteiten of Agenda en Kalender.
 
-#### Bronnen
+### Bronnen
 
 - [Icon Usablity](https://www.nngroup.com/articles/icon-usability/)
 - [Yes, Icons Need Text Labels](https://www.nngroup.com/videos/icon-text-labels)
@@ -73,7 +73,7 @@ https://www.nngroup.com/articles/mental-models/
 
 -->
 
-## Opdracht User test bespreken
+### Opdracht User test bespreken
 
 Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en 3 studenten. Bespreek de interacties en testen om en om, laat zien wat je hebt getest, wat goed ging en wat nog verbeterd kan worden. 
 
