@@ -299,7 +299,7 @@ nav ul li {
 }
 
 .subject-boxes button.active:hover::after {
-  content: " ✖";
+  content: "X";
   position: absolute;
   top: 50%;
   left: 50%;
@@ -322,6 +322,7 @@ nav ul li {
   color: black;
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
+  max-width: 80%;
 }
 
 .result {

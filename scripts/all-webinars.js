@@ -31,27 +31,7 @@ function updateActiveButton(activeCategory) {
   document.querySelectorAll(".subject-boxes button").forEach((button) => {
     const category = button.getAttribute("data-category"); // Haal de categorie op van de button
     // Voeg "active" class toe als de categorie overeenkomt
-    button.classList.toggle("active", category === activeCategory); 
-  });
-}
-
-// Functie om inactieve subject buttons te verbergen, behalve de actieve
-function hideInactiveSubjects() {
-  const subjectButtons = document.querySelectorAll(".subject-boxes button");
-  subjectButtons.forEach((button) => {
-    // Verberg alleen de knoppen die niet actief zijn
-    if (!button.classList.contains("active")) {
-      button.style.display = "none";
-    }
-  });
-}
-
-// Functie om alles terug naar de beginstatus te brengen (knoppen zichtbaar maken)
-function resetSubjects() {
-  const subjectButtons = document.querySelectorAll(".subject-boxes button");
-  subjectButtons.forEach((button) => {
-    button.style.display = "inline-block"; // Maak knoppen weer zichtbaar
-    button.classList.remove("active"); // Verwijder de actieve klasse
+    button.classList.toggle("active", category === activeCategory);
   });
 }
 
@@ -59,12 +39,10 @@ function resetSubjects() {
 function toggleActiveSubject(button) {
   if (button.classList.contains("active")) {
     // Als de knop al actief is, reset dan alles naar de beginstatus
-    resetSubjects();
     sortWebinarsByCategory("All"); // Herstel naar "All" als er geen actieve knoppen zijn
   } else {
     // Als de knop niet actief is, voeg de actieve class toe
     button.classList.add("active");
-    hideInactiveSubjects(); // Verberg de overige knoppen die niet actief zijn
     sortWebinarsByCategory(button.getAttribute("data-category")); // Filter webinars
   }
 }
