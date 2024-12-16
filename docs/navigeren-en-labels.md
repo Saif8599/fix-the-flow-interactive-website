@@ -41,7 +41,7 @@ Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te
 
 ![](hamburger-menu-types-examples.jpeg) *Verschillende menu icons voor dezelfde interactie.*
 
-Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden, of verschillende iconen voor dezelfde interactie. Om misverstanden te voorkomen is het aan te raden om bij een icon altijd een label te plaatsen om duidelijk te maken wat het betekent en wat een gebruiker kan verwachten.
+Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden, of verschillende iconen voor dezelfde interactie. Om misverstanden te voorkomen, is het aan te raden om bij een icon _altijd_ een label te plaatsen. Om duidelijk te maken wat het betekent en wat een gebruiker kan verwachten.
 
 ### Hoe ontwerp je goede labels?
 
@@ -49,9 +49,9 @@ Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen l
 
 **Gebruik precieze en nauwkeurige woorden** Precieze woorden is dus niet ‘voer  gegevens in’, maar benoem welke gegevens moeten worden ingevuld, wees concreet. Gebruik alleen afkortingen als de gebruiker ze kent, mensen schamen zich wanneer ze de afkortingen niet kennen.
 
-**‘Do...with’** Mensen zijn taakgericht, dus ‘Print deze brief”, “Koop festival tickets”. Als Do…with teveel ruimte in beslag neemt, doe dan alleen een werkwoord. Wanneer je buttons labeled dan zegt vijf keer een OK op een pagina niets, wel Print, Zoek, Bestel, Opslaan, Aanmelden.
+**‘Do...with’** Mensen zijn taakgericht, dus “Print deze brief”, “Koop festival tickets”. Als Do…with teveel ruimte in beslag neemt, doe dan alleen een werkwoord. Wanneer je buttons labeled, dan zegt vijf keer een OK op een pagina niets, wel Print, Zoek, Bestel, Opslaan, Aanmelden.
 
-**Labels niet laten overlappen** Labels mogen niet overlappen want dan moet een gebruiker beide uitproberen om er achter te komen wat het betekent. Bv. Agenda en Activiteiten of Agenda en Kalender.
+**Labels niet laten overlappen** Labels mogen niet overlappen (qua betekenis), want dan moet een gebruiker beide uitproberen om er achter te komen wat het betekent. Bv. de links Agenda en Activiteiten of Agenda en Kalender naast elkaar.
 
 ### Bronnen
 
@@ -75,7 +75,7 @@ https://www.nngroup.com/articles/mental-models/
 
 ### Opdracht User test bespreken
 
-Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en 3 studenten. Bespreek de interacties en testen om en om, laat zien wat je hebt getest, wat goed ging en wat nog verbeterd kan worden. 
+Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en 3 studenten. Bespreek de interacties en testen om en om, laat zien wat je hebt getest, wat goed ging en wat nog verbeterd kan worden. Heb je nog geen user test gedaan, doe dan eerst alsnog de [workshop van vrijdag](code-design-review-user-testing.md).
 
 <!--
 *Heb je de test en de testresultaten goed beschreven in het issue?*
