@@ -1,7 +1,10 @@
-# Fix the Flow - Interactive Website
+o# Fix the Flow - Interactive Website
 
 ## Wrap up
 
+Morgen, woensdag staat de Wrap-up op het programma. Dan ga je leren hoe je de interactie, en de (resposive) website, goed kan verwoorden en uitleggen.
+
+<!--
 Tijdens de *Wrap up* ga je voorbereiden waar je feedback op wil van de opdrachtgever en wat je nog kan afmaken. 
 
 ### Aanpak
