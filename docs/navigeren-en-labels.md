@@ -3,7 +3,11 @@
 ## Navigeren en labels
 
 Navigatie is de manier waarop de gebruiker door een website kan surfen en zoeken. 
-Wat is er, waar ben ik en waar kan ik naartoe? In het boek *Designing Web Navigation* schrijft James Kalbach:
+Als een gebruiker op jouw website komt vraagt die zich af: 
+Wat is er, waar ben ik en waar kan ik naartoe? 
+Je helpt de gebruiker door "antwoord" te geven op die vragen ... met feedback en feedforward!
+
+In het boek *Designing Web Navigation* schrijft James Kalbach:
 
 - Navigatie geeft toegang tot de informatie op een website
 
