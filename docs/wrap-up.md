@@ -4,13 +4,15 @@
 
 Tijdens de *Wrap up* ga je de (laatste) sprint review met de opdrachtgever voorbereiden. 
 
+
 ### Sprint Review voorbereiden
 
 Dit is de laatste sprint dit semester dat je voor de opdrachtgever hebt gewerkt. *Let's go  out with a bang!*
 
 Tijdens de sprint review ga je eerst laten zien welke feedback je hebt verwerkt na sprint 4. Daarna ga je je interacties presenteren.
 
-#### Feedback en fixes
+
+### Feedback en fixes deze sprint
 
 Pak de feedback van de opdrachtgever van de vorige sprint review er nog een keer bij, maak een lijst(je) en noteer welke feedback je hebt verwerkt. Tijdens de Sprint Review ga je stap voor stap de lijst bespreken, benoem de feedback en laat zien hoe je dat hebt opgelost. Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. 
 
@@ -24,7 +26,7 @@ Omdat je deze sprint een of meerdere interacties hebt gemaakt, kan je deze mooi 
 
 ![Readme](readme.png)
 
-#### Titel (en uitleg)
+#### Titel
 Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat je hebt gemaakt. Dit is het "ontwerpprobleem" en de "oplossing".
 
 #### Beschrijving
