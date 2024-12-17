@@ -1,4 +1,4 @@
-o# Fix the Flow - Interactive Website
+# Fix the Flow - Interactive Website
 
 ## Wrap up
 
