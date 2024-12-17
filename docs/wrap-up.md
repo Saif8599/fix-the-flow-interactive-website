@@ -2,36 +2,39 @@
 
 ## Wrap up
 
-Morgen, woensdag staat de Wrap-up op het programma. 
-Dan ga je leren hoe je de interactie, en de (responsive) website, goed kan verwoorden en uitleggen.
-
-<!--
-Tijdens de *Wrap up* ga je voorbereiden waar je feedback op wil van de opdrachtgever en wat je nog kan afmaken. 
-
-### Aanpak
-
-Bespreek met een andere student wat je donderdag wil laten zien tijdens de Sprint Review. Daarna doorloop je samen de Readme.
-
-Bespreek vandaag met een docent wat je donderdag gaat laten zien en wat je nog moet doen.
+Tijdens de *Wrap up* ga je de (laatste) sprint review met de opdrachtgever voorbereiden. 
 
 ### Sprint Review voorbereiden
 
-Schrijf op het whiteboard je naam, de opdracht, wat je donderdag wil laten zien + een code vraag.
+Dit is de laatste sprint dit semester dat je voor de opdrachtgever hebt gewerkt. *Let's go  out with a bang!*
+
+Tijdens de sprint review ga je eerst laten zien welke feedback je hebt verwerkt na sprint 4. Daarna ga je je interacties presenteren.
+
+#### Feedback en fixes
+
+Pak de feedback van de opdrachtgever van de vorige sprint review er nog een keer bij, maak een lijst(je) en noteer welke feedback je hebt verwerkt. Tijdens de Sprint Review ga je stap voor stap de lijst bespreken, benoem de feedback en laat zien hoe je dat hebt opgelost. Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. 
 
 Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md
 
 
-### Readme
+### Interactie presenteren in de Readme
 
-Als je een sprint afsluit, zorg er dan voor dat je *repository* een nette Readme heeft. Dit kan je gebruiken tijdens de Sprint Review en daarna geef je de opdrachtgever de link naar je repo, zodat die na de Sprint Review kan lezen en zien wat je hebt gemaakt..
+Na de lijst met de feedback die je hebt verwerkt ga je je interactie(s) presenteren. Dit doe je aan de hand van je Readme. 
 
-Begin de Readme met een korte uitleg over de opdracht. Hier kan je ook schrijven waar je feedback op wil, welke feature wil je dat de opdrachtgever bekijkt? Maak via GitHub Pages een URL van je project en voeg deze ook toe aan de Readme.
+Omdat je deze sprint een of meerdere interacties hebt gemaakt, kan je deze mooi tonen in de Readme en dit gebruiken om te presenteren. 
+
+![Readme](readme.png)
+
+Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat je hebt gemaakt. Dit is het "ontwerpprobleem" en de "oplossing".
 
 #### Beschrijving
 
-Bij 'Beschrijving' komt te staan hoe je project er uit ziet, hoe het werkt en wat je er mee kan. Beschrijf hier de features waar je feedback op wil en voeg ook screenshots toe. 
+Bij 'Beschrijving' komt te staan hoe je project er uit ziet, hoe het werkt en wat je er mee kan. 
+
+Laat hier de interactie(s) zien die je hebt gemaakt. Toon een visual van de interactie en leg je ontwerpkeuzes uit. Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, en wat uit de user test is gekomen. Link naar de live pagina met de interactie.
 
 #### Kenmerken 
 
-Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? 
+Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe?
 
+Leg hier in grote lijnen uit hoe de interacties werken met JavaScript en CSS en verwijs naar code in je repo. 
