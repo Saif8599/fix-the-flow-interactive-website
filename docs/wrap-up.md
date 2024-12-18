@@ -22,7 +22,7 @@ Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.c
 ### Interactie presenteren in de Readme
 
 Na de lijst met de feedback die je hebt verwerkt ga je je interactie(s) presenteren. Dit doe je aan de hand van je Readme. 
-Omdat je deze sprint een of meerdere interacties hebt gemaakt, kan je deze mooi tonen in de Readme en dit gebruiken om te presenteren. 
+Omdat je deze sprint een of meerdere interacties hebt gemaakt, kan je deze mooi tonen in de Readme en dit gebruiken om te presenteren. In de Readme schrijf je in principe niets over het proces dat je hebt doorlopen, maar focus je op het eindresultaat.
 
 ![Readme](readme.png)
 
@@ -32,7 +32,7 @@ Begin de Readme met een goede titel en een korte uitleg over de opdracht en wat 
 #### Beschrijving
 Bij 'Beschrijving' komt te staan hoe je project er uit ziet, hoe het werkt en wat je er mee kan. 
 
-Laat hier de interactie(s) zien die je hebt gemaakt. Toon een visual van de interactie en leg je ontwerpkeuzes uit. Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere principes. Je kan ontwerpkeuzes ook uitleggen met bevindingen uit de user test, de gebruiker heeft altijd gelijk ... Link naar de live pagina met de interactie.
+Laat hier de interactie(s) zien die je hebt gemaakt. Toon een visual of video van de interactie en leg je ontwerpkeuzes uit. Je ontwerpkeuzes kan je uitleggen door te schrijven en laten zien hoe je feedback en feedforward hebt toegepast in je ontwerp, dat je gebruik hebt gemaakt van labels of andere principes. Je kan ontwerpkeuzes ook uitleggen met bevindingen uit de user test, de gebruiker heeft altijd gelijk ... Link naar de live pagina met de interactie.
 
 #### Kenmerken 
 Bij 'Kenmerken' staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe?
