@@ -6,7 +6,7 @@ Met de User Interface (UI) wordt de ‘voorkant’ van een website of app bedoel
 
 In een goed ontwerp hou je rekening met de gebruiker. Zorg ervoor dat de UI voor de gebruiker duidelijk is door feedback en feedforward te ontwerpen. Niks is vervelender dan op een knop klikken en er gebeurt niets of iets anders dan je verwacht... Joshua Porter, user experience designer, schrijft:
 
-> Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn - Joshua Porter, Principles of User Interface Design
+> Keep users in control by regularly surfacing system status, by describing causation (if you do this that will happen) and by giving insight into what to expect at every turn - Joshua Porter, [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 
 <!-- Zorg ervoor dat een gebruiker weet wat die kan verwachten, *feedforward*, en of een interactie is gelukt, *feedback*.  -->
 
