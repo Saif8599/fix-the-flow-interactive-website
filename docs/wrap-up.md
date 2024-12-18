@@ -22,7 +22,7 @@ Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.c
 ### Interactie presenteren in de Readme
 
 Na de lijst met de feedback die je hebt verwerkt ga je je interactie(s) presenteren. Dit doe je aan de hand van je Readme. 
-Omdat je deze sprint een of meerdere interacties hebt gemaakt, kan je deze mooi tonen in de Readme en dit gebruiken om te presenteren. 
+Omdat je deze sprint een of meerdere interacties hebt gemaakt, kan je deze mooi tonen in de Readme en dit gebruiken om te presenteren. In de Readme schrijf je in principe niets over het proces dat je hebt doorlopen, maar focus je op het eindresultaat.
 
 ![Readme](readme.png)
 
