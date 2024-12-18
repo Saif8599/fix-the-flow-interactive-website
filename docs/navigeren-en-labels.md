@@ -3,7 +3,11 @@
 ## Navigeren en labels
 
 Navigatie is de manier waarop de gebruiker door een website kan surfen en zoeken. 
-Wat is er, waar ben ik en waar kan ik naartoe? In het boek *Designing Web Navigation* schrijft James Kalbach:
+Als een gebruiker op jouw website komt vraagt die zich af: 
+Wat is er, waar ben ik en waar kan ik naartoe? 
+Je helpt de gebruiker door "antwoord" te geven op die vragen ... met feedback en feedforward!
+
+In het boek *Designing Web Navigation* schrijft James Kalbach:
 
 - Navigatie geeft toegang tot de informatie op een website
 
@@ -75,7 +79,7 @@ https://www.nngroup.com/articles/mental-models/
 
 ### Opdracht User test bespreken
 
-Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en 3 studenten. Bespreek de interacties en testen om en om, laat zien wat je hebt getest, wat goed ging en wat nog verbeterd kan worden. Heb je nog geen user test gedaan, doe dan eerst alsnog de [workshop van vrijdag](code-design-review-user-testing.md).
+Bespreek de testresultaten van de user test die je hebt gedaan met een mentor en 3 studenten. Bespreek de interacties en testen om en om, laat zien wat je hebt getest, wat goed ging en wat nog verbeterd kan worden. (Heb je nog geen user test gedaan, doe dan eerst alsnog de [user test van vrijdag](code-design-review-user-testing.md).)
 
 <!--
 *Heb je de test en de testresultaten goed beschreven in het issue?*
@@ -86,7 +90,7 @@ Schets gezamenlijk hoe je de interactie kan verbeteren door feedback en feedforw
 - Let op het gebruik van straatnaambordjes en bewegwijzering, noteer deze in de tekening. 
 - Let op het gebruik van labels en iconen en pas toe hoe je goede labels ontwerpt.
 - Schets ook de hover-, active- en focus-states van de interactieve elementen.
-- Voeg de tekening met uitleg toe aan het issue.
+- Voeg de tekening met uitleg toe aan het issue met de user story en interactie. (Als je die nog niet hebt, kijk dan nog even naar de [workshop User Interface Design](user-interface-design.md))
 
 
 <!-- 
