@@ -52,25 +52,32 @@ Stap 1 van ons stappenplan is het _selecteren_ van een geschikt element, waarmee
 
 ```html
 <button class="show-more">Toon meer</button>
-<p>Dit wordt nog niet getoond.</p>
+<p class="info">Dit wordt nog niet getoond.</p>
 ```
 
-In CSS heb je die button met een _class selector_ als _feedforward_ ronde hoeken, een pointer en een icoontje gegeven, zodat de gebruiker weet dat er iets te doen is:
+In CSS heb je die button met een _class selector_ als _feedforward_ ronde hoeken, een pointer en een icoontje gegeven, zodat de gebruiker weet dat er iets te doen is. De alinea met tekst wordt nog niet getoond.
 
 ```css
 .show-more {
     border-radius: .4em;
     cursor: pointer;
+
     &::after {
         content: ' ⬇️' / '';
     }
-    + p {
-        display: none;
-    }
+}
+
+.info {
+    display: none;
+}
+
+/* Deze 'show-info' class gaan we er met JS straks op zetten */
+.show-info {
+    display: block;
 }
 ```
 
-In JavaScript kun je dit element _selecteren_ met `document.querySelector()`, gecombineerd met de _class selector_ hierboven. Het resultaat kun je in een _variabele_ opslaan, die je net als bij CSS _custom properties_ kunt noemen zoals je wilt. Met het `let` _keyword_ maak je een variabele aan:
+In JavaScript kun je de button _selecteren_ met `document.querySelector()`, gecombineerd met de _class selector_ `.show-more`. Het resultaat kun je in een _variabele_ opslaan, die je net als bij CSS _custom properties_ kunt noemen zoals je wilt. Met het `let` _keyword_ maak je een variabele aan:
 
 ```js
 let showMoreButton = document.querySelector('.show-more');
@@ -114,21 +121,14 @@ In dit geval willen we waarschijnlijk zoiets:
 
 ```js
 let showMoreButton = document.querySelector('.show-more');
+let infoText = document.querySelector('.info');
+
 showMoreButton.addEventListener('click', function() {
-    showMoreButton.classList.add('showing-more');
+    infoText.classList.add('show-info');
 });
 ```
 
-In CSS pak je zo'n class dan weer op, met een class selector. In JavaScript heb je dus vaak maar een paar regels code nodig om iets interactiefs te maken. Transities en animaties kun je verder helemaal in CSS doen. En je kunt je volledig richten op goede en duidelijke feedforward en feedback. Uiteindelijk maak je de dingen voor eindgebruikers, en ziet vrijwel niemand de code die je schrijft :-)
-
-```css
-.showing-more {
-    display: none;
-    + p {
-        display: block;
-    }
-}
-```
+In CSS _matcht_ nu de `show-info` class ook, waardoor de `<p>` getoond wordt. In JavaScript heb je dus vaak maar een paar regels code nodig om iets interactiefs te maken. Transities en animaties kun je verder helemaal in CSS doen. En je kunt je volledig richten op goede en duidelijke feedforward en feedback. Uiteindelijk maak je de dingen voor eindgebruikers.
 
 ### Opdracht
 
@@ -254,7 +254,7 @@ Schrijf het plan voor je micro-interactie in _comments_ uit in je JavaScript bes
 
 Vraag op het plan dat je in comments uitgeschreven hebt feedback van een docent of mentor. Werk je interactie uit aan de hand van het 3 stappenplan. Laat je comments gewoon staan bij je code, zodat je inzichtelijk maakt hoe je te werk bent gegaan, en eventuele (denk)foutjes makkelijk terug kunt vinden.
 
-Het kan goed zijn dat je vaak switcht tussen HTML, CSS en JS. Ouwe frontendert!
+Het kan goed zijn dat je vaak switcht tussen HTML, CSS en JS.
 
 Commit je werk als je klaar bent, en noem in je commit message het issue nummer van je user story, zodat deze gekoppeld zijn. Vrijdag krijg je hierop een code/design review.
 
