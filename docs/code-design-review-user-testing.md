@@ -38,9 +38,13 @@ Schrijf voor je gekozen user story een scenario. Dit scenario biedt context en d
 Test je scenario’s op een echt persoon om te bepalen of gebruikers voldoende context hebben om de taken uit te voeren. Pas onduidelijkheden aan en herhaal de proef-test totdat het scenario helder is. Voer de proef-test uit met een medestudent.  
 
 ### Testen, testen, testen  
-Nu je weet wat je wilt testen, voer je de tests uit met minimaal drie gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Een gebruikerstest is het meest waardevol wanneer je test met iemand die weinig tot niets weet over jouw project en die je niet goed kent. Als je met een medestudent test, kies dan bij voorkeur iemand die niet aan hetzelfde project werkt en met wie je niet vaak samenwerkt.
+Nu je weet wat je wilt testen, is het tijd om de tests uit te voeren met minimaal drie gebruikers. Dit kunnen docenten, mentoren of medestudenten zijn. Een gebruikerstest levert de meest waardevolle inzichten op wanneer je test met iemand die weinig tot niets weet over jouw project en die je niet goed kent. Kies bij voorkeur een medestudent die niet aan hetzelfde project werkt en met wie je niet vaak samenwerkt.
 
-Vertel de gebruiker eerst het scenario en vraag of het duidelijk is. Nu kan de test beginnen. Let tijdens het testen op de volgende punten:  
+**Voorbereiding is cruciaal**. Zorg ervoor dat je een notitieboekje en pen klaar hebt liggen om observaties vast te leggen. Tijdens de test beantwoord je geen vragen en grijp je niet in, maar noteer je nauwkeurig wat je opmerkt (zie de afbeeldingen hieronder). Denk daarnaast goed na over het device waarop de gebruiker de test uitvoert. Dit kan een laptop, tablet of smartphone zijn. Overweeg of je wilt dat de gebruiker zijn of haar eigen device gebruikt of dat je er een ter beschikking stelt. Het type device en de vertrouwdheid van de gebruiker ermee kunnen van invloed zijn op hoe zij jouw ontwerp ervaren.
+
+Wanneer alles is voorbereid, kun je de test starten. Begin met het uitleggen van het scenario en vraag of het duidelijk is. Laat de gebruiker vervolgens jouw website zien en voer de test uit. Terwijl de gebruiker bezig is, observeer je en schrijf je al je bevindingen op. 
+
+Let tijdens het testen op de volgende punten:  
 - **Moedig gebruikers aan om hardop te denken:** Laat ze hun gedachten uitspreken terwijl ze de taak uitvoeren. 
 ![Thinking alout](usertest-thinking-alout.png)
 - **Blijf neutraal:** Beïnvloed gebruikers niet.  
