@@ -159,7 +159,7 @@ Als je ditzelfde in JavaScript zou willen doen, moet je elke stap uitschrijven:
 ```js
 // Selecteer alle p elementen, en sla die op in een variabele
 // Wandel langs alle p elementen
-// Voor elk p element: verander de kleur naar rood
+// Voor elk p element → verander de kleur naar rood
 ```
 
 <details>
@@ -171,7 +171,7 @@ let pElementen = document.querySelectorAll('p');
 
 // Wandel langs alle p elementen
 pElementen.forEach(function(pElement) {
-    // Voor elk p element: verander de kleur naar rood
+    // Voor elk p element → verander de kleur naar rood
     pElement.style.color = 'red';
     // (Dit is overigens geen goed idee; je kunt dit beter via een
     // classList.toggle() doen, en je styling in CSS zelf houden)
