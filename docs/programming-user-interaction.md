@@ -160,7 +160,6 @@ Als je ditzelfde in JavaScript zou willen doen, moet je elke stap uitschrijven:
 // Selecteer alle p elementen, en sla die op in een variabele
 // Wandel langs alle p elementen
 // Voor elk p element: verander de kleur naar rood
-});
 ```
 
 <details>
